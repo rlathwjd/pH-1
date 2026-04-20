@@ -92,6 +92,7 @@ a {
   border-right: 2px solid black;
   margin-left: -2px;
   padding: 24px 20px;
+  position: relative;
 }
 
 .rightbar {
@@ -184,6 +185,41 @@ a {
 
 .card-label + .card-label {
   margin-top: 4px;
+}
+
+.tracklist {
+  display: none;
+  margin-top: 10px;
+  padding-left: 15px;
+  color: #333;
+}
+
+.content {
+  position: relative;
+}
+
+.back-button {
+  position: absolute;
+  top: 22px;
+  left: 28px;
+
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+
+  font-size: 30px;
+  line-height: 2;
+
+  width: auto;
+  height: auto;
+
+  cursor: pointer;
+  z-index: 10;
+}
+
+.back-button:hover {
+  opacity: 0.6;
 }
 
 .aside-links {
