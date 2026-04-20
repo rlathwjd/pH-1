@@ -20,7 +20,7 @@ const careerData = {
     {
       title: "Wavy",
       date: "10/21",
-      image: "images/Wavy.JPG",
+      image: "images/Wavy.jpg",
       tracks: ["Wavy"]
     },
     {
@@ -54,7 +54,7 @@ const careerData = {
   "2018": [
     { title: "GATSBY", 
       date: "02/04", 
-      image: "images/GATSBY.JPG",
+      image: "images/GATSBY.jpg",
       tracks: [
         "Communicate",
         "Penthouse"
@@ -62,7 +62,7 @@ const careerData = {
     },
     { title: "harry", 
       date: "06/22", 
-      image: "images/harry.JPG",
+      image: "images/harry.jpg",
       tracks: [
         "harry's question",
         "비싸",
@@ -71,7 +71,7 @@ const careerData = {
     },
     { title: "loves", 
       date: "08/20", 
-      image: "images/loves.JPG",
+      image: "images/loves.jpg",
       tracks: [
         "Groupie",
         "Cupid"
@@ -79,7 +79,7 @@ const careerData = {
     },
     { title: "loves", 
       date: "08/20", 
-      image: "images/loves.JPG",
+      image: "images/loves.jpg",
       tracks: [
         "Groupie",
         "Cupid"
@@ -87,7 +87,7 @@ const careerData = {
     },
     { title: "쇼미더머니 777 Episode 1", 
       date: "10/06", 
-      image: "images/쇼미더머니 777 Episode 1.JPG",
+      image: "images/쇼미더머니 777 Episode 1.jpg",
       tracks: [
         "Good Day",
         "Hate You",
@@ -98,31 +98,31 @@ const careerData = {
   ],
   "2019": [
     { title: "HALO", date: "03/28", image: "images/HALO.jpg" },
-    { title: "Summer Episodes", date: "07/23", image: "images/Summer Episodes.JPG" }
+    { title: "Summer Episodes", date: "07/23", image: "images/Summer Episodes.jpg" }
   ],
   "2020": [
-    { title: "Nerdy Love", date: "01/09", image: "images/Nerdy Love.JPG" },
-    { title: "X", date: "05/08", image: "images/X.JPG" },
-    { title: "RED TAPE", date: "09/02", image: "images/RED TAPE.JPG" },
-    { title: "BLUE TAPE", date: "09/16", image: "images/BLUE TAPE.JPG" }
+    { title: "Nerdy Love", date: "01/09", image: "images/Nerdy Love.jpg" },
+    { title: "X", date: "05/08", image: "images/X.jpg" },
+    { title: "RED TAPE", date: "09/02", image: "images/RED TAPE.jpg" },
+    { title: "BLUE TAPE", date: "09/16", image: "images/BLUE TAPE.jpg" }
   ],
   "2021": [
-    { title: "365&7", date: "04/29", image: "images/365&7.JPG" }
+    { title: "365&7", date: "04/29", image: "images/365&7.jpg" }
   ],
   "2022": [
-    { title: "BUT FOR NOW LEAVE ME ALONE", date: "09/15", image: "images/BUT FOR NOW LEAVE ME ALONE.JPG" }
+    { title: "BUT FOR NOW LEAVE ME ALONE", date: "09/15", image: "images/BUT FOR NOW LEAVE ME ALONE.jpg" }
   ],
   "2023": [
-    { title: "POP OFF", date: "11/02", image: "images/POP OFF.JPG" }
+    { title: "POP OFF", date: "11/02", image: "images/POP OFF.jpg" }
   ],
   "2024": [
-    { title: "HANDS", date: "12/23", image: "images/HANDS.JPG" }
+    { title: "HANDS", date: "12/23", image: "images/HANDS.jpg" }
   ],
   "2025": [
-    { title: "WHAT HAVE WE DONE", date: "08/13", image: "images/WHAT HAVE WE DONE.JPG" }
+    { title: "WHAT HAVE WE DONE", date: "08/13", image: "images/WHAT HAVE WE DONE.jpg" }
   ],
   "2026": [
-    { title: "PURPLE TAPE", date: "04/09", image: "images/PURPLE TAPE.JPG" }
+    { title: "PURPLE TAPE", date: "04/09", image: "images/PURPLE TAPE.jpg" }
   ]
 };
 
