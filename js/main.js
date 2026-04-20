@@ -77,14 +77,6 @@ const careerData = {
         "Cupid"
       ] 
     },
-    { title: "loves", 
-      date: "08/20", 
-      image: "images/loves.jpg",
-      tracks: [
-        "Groupie",
-        "Cupid"
-      ] 
-    },
     { title: "쇼미더머니 777 Episode 1", 
       date: "10/06", 
       image: "images/쇼미더머니 777 Episode 1.jpg",
@@ -94,35 +86,205 @@ const careerData = {
         "119",
         "주황색"
       ] 
-    }
+    },
+    { title: "staying", 
+      date: "11/24", 
+      image: "images/staying.jpg",
+      tracks: [
+        "무리야",
+        "Homebody"
+      ] 
+    },
   ],
   "2019": [
-    { title: "HALO", date: "03/28", image: "images/HALO.jpg" },
-    { title: "Summer Episodes", date: "07/23", image: "images/Summer Episodes.jpg" }
+    { title: "HALO", 
+      date: "03/28", 
+      image: "images/HALO.jpg",
+      tracks: [
+        "Alright",
+        "너무 싫어",
+        "Malibu",
+        "Lights Out",
+        "Push Me",
+        "Like Me",
+        "못봐",
+        "Rain Man",
+        "Olaf",
+        "Dirty Nikes",
+        "Til I Die",
+        "Making Film"
+      ] 
+    },
+    { title: "Summer Episodes", 
+      date: "07/23", 
+      image: "images/Summer Episodes.jpg",
+      tracks: [
+        "You Don't Know My Name",
+        "BOOL",
+        "Different Summer"
+      ] 
+    }
   ],
   "2020": [
-    { title: "Nerdy Love", date: "01/09", image: "images/Nerdy Love.jpg" },
-    { title: "X", date: "05/08", image: "images/X.jpg" },
-    { title: "RED TAPE", date: "09/02", image: "images/RED TAPE.jpg" },
-    { title: "BLUE TAPE", date: "09/16", image: "images/BLUE TAPE.jpg" }
+    { title: "Nerdy Love", 
+      date: "01/09", 
+      image: "images/Nerdy Love.jpg",
+      tracks: [
+        "Nerdy Love"
+      ] },
+    { title: "X",
+      date: "05/08", 
+      image: "images/X.jpg",
+      tracks: [
+        "사인회",
+        "OKAY",
+        "PACKITUP!",
+        "BLAME MY CIRCLE",
+        "TELÉFONO",
+        "센 척",
+        "ANYMORE",
+        "I CAN TELL",
+        "MORAGO",
+        "DRESSING ROOM"
+      ] 
+    },
+    { title: "RED TAPE", 
+      date: "09/02", 
+      image: "images/RED TAPE.jpg",
+      tracks: [
+        "H1GHR",
+        "Melanin HAndsome",
+        "How We Rock",
+        "뚝딱 Freestyle",
+        "4eva",
+        "Teléfono Remix",
+        "Closed Case",
+        "World Domination",
+        "The Purge",
+        "No Rush",
+        "Check My Bio",
+        "Dance Like Jay Park Remix",
+        "Team",
+        "도착"
+      ] 
+    },
+    { title: "BLUE TAPE", 
+      date: "09/16", 
+      image: "images/BLUE TAPE.jpg",
+      tracks: [
+        "Champagne Diet",
+        "Me&Bae",
+        "Selfish",
+        "Last Song",
+        "ㄱ에서부터 0에서부터",
+        "LIVE",
+        "Lean On Me",
+        "Oscar",
+        "Afternoon",
+        "End Of The Night",
+        "Gotta Go",
+        "RSVP Remix",
+        "Swing My Way",
+        "Toast"
+      ] }
   ],
   "2021": [
-    { title: "365&7", date: "04/29", image: "images/365&7.jpg" }
+    { title: "365&7", 
+      date: "04/29", 
+      image: "images/365&7.jpg",
+      tracks: [
+        "365&7"
+      ] }
   ],
   "2022": [
-    { title: "BUT FOR NOW LEAVE ME ALONE", date: "09/15", image: "images/BUT FOR NOW LEAVE ME ALONE.jpg" }
+    { title: "BUT FOR NOW LEAVE ME ALONE", 
+      date: "09/15", 
+      image: "images/BUT FOR NOW LEAVE ME ALONE.jpg",
+      tracks: [
+        "ZOMBIES",
+        "TGIF",
+        "YUPPIE TING",
+        "TIPSY",
+        "MR. BAD",
+        "JULIETTE!",
+        "RUN AWAY",
+        "DEAD GIRL",
+        "SHRINK TOLD ME",
+        "ISSUES",
+        "BREAK THE GLASS",
+        "마지막 싸움",
+        "배"
+      ] 
+    }
   ],
   "2023": [
-    { title: "POP OFF", date: "11/02", image: "images/POP OFF.jpg" }
+    { title: "POP OFF", 
+      date: "11/02", 
+      image: "images/POP OFF.jpg",
+      tracks: [
+        "ROSETTA",
+        "COSIGN",
+        "INCUBATOR",
+        "U TELL ME",
+        "LUST",
+        "360o",
+      ] 
+    }
   ],
   "2024": [
-    { title: "HANDS", date: "12/23", image: "images/HANDS.jpg" }
+    { title: "HANDS", 
+      date: "12/23", 
+      image: "images/HANDS.jpg",
+      tracks: [
+        "인생영화",
+        "Trustfall"
+      ] 
+    }
   ],
   "2025": [
-    { title: "WHAT HAVE WE DONE", date: "08/13", image: "images/WHAT HAVE WE DONE.jpg" }
+    { title: "WHAT HAVE WE DONE", 
+      date: "08/13", 
+      image: "images/WHAT HAVE WE DONE.jpg",
+      tracks: [
+        "WHAT HAVE WE DONE",
+        "PARTY PPL",
+        "KEEP IT ON THE LOW",
+        "MY B",
+        "BAKA",
+        "CRASHINNN OUTTT!!!",
+        "ERYKAH BADU",
+        "GOSHA",
+        "DRUGGED2THRILLS",
+        "54321",
+        "EASY",
+        "SUMMER FEVER",
+        "COVERED IN RAIN",
+        "도망쳐",
+        "SOAK IN BLUE"
+      ] 
+    }
   ],
   "2026": [
-    { title: "PURPLE TAPE", date: "04/09", image: "images/PURPLE TAPE.jpg" }
+    { title: "PURPLE TAPE", 
+      date: "04/09", 
+      image: "images/PURPLE TAPE.jpg",
+      tracks: [
+        "WORKMAN",
+        "월드컵",
+        "GAGA",
+        "FOCKIT",
+        "WARM UP FREESTYLE",
+        "MO LESSON",
+        "BORA", 
+        "<3U",
+        "SUPERSTAR",
+        "BDB",
+        "OVERNIGHT",
+        "POOF!",
+        "GPT FREESYLE",
+        "PHONE",
+        "SAY NO MORE"
+      ] }
   ]
 };
 
