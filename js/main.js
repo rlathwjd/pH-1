@@ -334,7 +334,6 @@ function renderCareer(year = "2016", selectedIndex = null) {
   // 👉 선택했을 때 (하나만 표시 + 곡 목록)
   else {
     const item = items[selectedIndex];
-    // <button class="back-btn" onclick="renderCareer('${year}')">←</button>
 
     cards = `
       <button class="back-button" onclick="renderCareer('${year}')">←</button>
