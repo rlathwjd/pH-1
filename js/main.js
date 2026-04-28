@@ -5,9 +5,9 @@ const pageLinks = document.querySelectorAll("[data-page]");
 const yearLinks = document.querySelectorAll("[data-year]");
 
 const photoItems = [
-  { title: "Photo 1", image: "images/축구복.JPG" },
+  { title: "Photo 1", image: "images/축구복.jpg" },
   { title: "Photo 2", image: "images/하트.jpg" },
-  { title: "Photo 3", image: "images/차.JPG" },
+  { title: "Photo 3", image: "images/차.jpg" },
   { title: "Photo 4", image: "images/스토리.jpg" },
   { title: "Photo 5", image: "images/인스타.jpg" },
   { title: "Photo 6", image: "images/눈1.jpg" },
