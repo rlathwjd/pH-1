@@ -155,6 +155,177 @@ a {
   font-family: 'Shadows Into Light', cursive;
 }
 
+.mood-buttons button.selected {
+  background: #222;
+  color: white;
+  border-color: #222;
+}
+
+.selected-tags {
+  margin-top: 0px;
+}
+
+.selected-tag {
+  display: inline-block;
+  margin: 4px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #eee;
+  font-size: 14px;
+}
+
+.mood-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 28px;
+}
+
+.mood-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.recommend-btn {
+
+  padding: 10px 24px;
+  border-radius: 999px;
+  border: none;
+  background: orange;
+  color: white;
+  font-family: 'Do Hyeon', sans-serif;
+  cursor: pointer;
+}
+
+.recommend-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  margin-top: 20px;
+}
+
+.recommend-card {
+  width: 800px;
+  padding: 16px;
+
+  display: flex;
+  align-items: center;
+  gap: 24px;
+
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+
+  transition: transform 0.2s ease;
+}
+
+.recommend-card:hover {
+  transform: translateY(-3px);
+}
+
+.recommend-img {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 14px;
+  flex-shrink: 0;
+}
+
+.recommend-info {
+  text-align: left;
+}
+
+.title-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+
+.title-text {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.play-btn {
+  margin-left: 10px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #1db954;
+  color: white;
+  font-size: 13px;
+  text-decoration: none;
+  font-family: 'Do Hyeon', sans-serif;
+  white-space: nowrap;
+  transform: translateY(-4px);
+}
+
+.play-btn:hover {
+  background: #1ed760;
+}
+
+.track-title {
+  margin: 0 0 4px;
+  font-size: 24px;
+}
+
+.album-name {
+  font-size: 14px;
+  color: #888;
+}
+
+.reason {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.5;
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+.loading-text {
+  margin-top: 30px;
+  font-size: 16px;
+  color: #999;
+  text-align: center;
+  font-family: 'Do Hyeon', sans-serif;
+
+  animation: fade 1s infinite alternate;
+}
+
+@keyframes fade {
+  from { opacity: 0.4; }
+  to { opacity: 1; }
+}
+
+.toast-message {
+  margin-top: 16px;
+  padding: 10px 18px;
+
+  background: orange;
+  color: white;
+
+  border-radius: 20px;
+
+  font-size: 14px;
+  font-family: 'Do Hyeon', sans-serif;
+
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+
+  display: inline-block;
+  width: fit-content;
+
+  opacity: 0;
+  transform: scale(0.95);
+  transition: all 0.25s ease;
+}
+
+.toast-message.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
 .card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -202,9 +373,15 @@ a {
   font-family: 'Do Hyeon', sans-serif;
 }
 
+.title-row {
+  display: flex;
+  gap: 8px;
+  align-items: baseline;
+  margin-bottom: 8px;
+}
+
 .track-title {
-  margin-top: 10px;
-  margin-left: 10px;
+  font-size: 20px;
 }
 
 .track-list {

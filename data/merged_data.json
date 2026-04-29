@@ -1,0 +1,1161 @@
+[
+  {
+    "title": "Wavy",
+    "date": "2016-10-21",
+    "image": "images/Wavy.jpg",
+    "tracks": [
+      {
+        "title": "Wavy",
+        "mood": [
+          "청량",
+          "감성",
+          "여유"
+        ],
+        "situation": [
+          "드라이브",
+          "산책",
+          "기분 전환"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "파도",
+          "청춘",
+          "자유"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Perfect",
+    "date": "2016-11-29",
+    "image": "images/Perfect.jpg",
+    "tracks": [
+      {
+        "title": "Perfect",
+        "mood": [
+          "달달함",
+          "설렘",
+          "감성"
+        ],
+        "situation": [
+          "썸",
+          "데이트",
+          "밤 산책"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "사랑",
+          "고백",
+          "로맨틱"
+        ]
+      }
+    ],
+    "spotify": "https://open.spotify.com/track/7Coi8O3oswmsoXkfYtT7GE"
+  },
+  {
+    "title": "The Island Kid",
+    "date": "2017-10-18",
+    "image": "images/The Island Kid.jpg",
+    "tracks": [
+      {
+        "title": "Cuckoo",
+        "mood": [
+          "힙함",
+          "장난스러움",
+          "자유로움"
+        ],
+        "situation": [
+          "기분 전환",
+          "가볍게 듣기"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "재치",
+          "개성"
+        ]
+      },
+      {
+        "title": "'15",
+        "mood": [
+          "회상",
+          "감성",
+          "잔잔함"
+        ],
+        "situation": [
+          "혼자 있을 때",
+          "밤"
+        ],
+        "energy": "low",
+        "keywords": [
+          "추억",
+          "과거",
+          "성장"
+        ]
+      },
+      {
+        "title": "Christ",
+        "mood": [
+          "진지함",
+          "내면적",
+          "묵직함"
+        ],
+        "situation": [
+          "생각 정리",
+          "혼자 듣기"
+        ],
+        "energy": "low",
+        "keywords": [
+          "믿음",
+          "고민",
+          "자아"
+        ]
+      },
+      {
+        "title": "Escobar",
+        "mood": [
+          "강렬함",
+          "힙함",
+          "자신감"
+        ],
+        "situation": [
+          "운동",
+          "외출 준비"
+        ],
+        "energy": "high",
+        "keywords": [
+          "스웨그",
+          "야망"
+        ]
+      },
+      {
+        "title": "Game Night",
+        "mood": [
+          "신남",
+          "장난스러움",
+          "캐주얼"
+        ],
+        "situation": [
+          "친구들과",
+          "파티"
+        ],
+        "energy": "high",
+        "keywords": [
+          "게임",
+          "밤",
+          "친구"
+        ]
+      },
+      {
+        "title": "Donut",
+        "mood": [
+          "귀여움",
+          "가벼움",
+          "달달함"
+        ],
+        "situation": [
+          "기분 좋을 때",
+          "카페"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "달콤함",
+          "장난"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GATSBY",
+    "date": "2018-02-04",
+    "image": "images/GATSBY.jpg",
+    "tracks": [
+      {
+        "title": "Communicate",
+        "mood": [
+          "감성",
+          "그루비",
+          "도시적"
+        ],
+        "situation": [
+          "밤 드라이브",
+          "대화가 필요할 때"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "소통",
+          "관계"
+        ]
+      },
+      {
+        "title": "Penthouse",
+        "mood": [
+          "고급스러움",
+          "자신감",
+          "힙함"
+        ],
+        "situation": [
+          "외출 준비",
+          "도시 밤"
+        ],
+        "energy": "high",
+        "keywords": [
+          "성공",
+          "럭셔리"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "harry",
+    "date": "2018-06-22",
+    "image": "images/harry.jpg",
+    "tracks": [
+      {
+        "title": "harry's question",
+        "mood": [
+          "내면적",
+          "궁금함",
+          "몽글몽글"
+        ],
+        "situation": [
+          "혼자 생각할 때",
+          "밤"
+        ],
+        "energy": "low",
+        "keywords": [
+          "질문",
+          "자아",
+          "고민"
+        ]
+      },
+      {
+        "title": "비싸",
+        "mood": [
+          "힙함",
+          "자신감",
+          "플렉스"
+        ],
+        "situation": [
+          "외출 준비",
+          "기분 올릴 때"
+        ],
+        "energy": "high",
+        "keywords": [
+          "돈",
+          "자신감",
+          "스웨그"
+        ]
+      },
+      {
+        "title": "DVD",
+        "mood": [
+          "감성",
+          "회상",
+          "빈티지"
+        ],
+        "situation": [
+          "밤",
+          "추억 회상"
+        ],
+        "energy": "low",
+        "keywords": [
+          "기억",
+          "영화",
+          "추억"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "loves",
+    "date": "2018-08-20",
+    "image": "images/loves.jpg",
+    "tracks": [
+      {
+        "title": "Groupie",
+        "mood": [
+          "힙함",
+          "장난스러움",
+          "자신감"
+        ],
+        "situation": [
+          "파티",
+          "기분 전환"
+        ],
+        "energy": "high",
+        "keywords": [
+          "인기",
+          "플러팅"
+        ]
+      },
+      {
+        "title": "Cupid",
+        "mood": [
+          "설렘",
+          "달달함",
+          "몽글몽글"
+        ],
+        "situation": [
+          "썸",
+          "데이트",
+          "봄"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "사랑",
+          "큐피드",
+          "고백"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "HALO",
+    "date": "2019-03-28",
+    "image": "images/HALO.jpg",
+    "tracks": [
+      {
+        "title": "Alright",
+        "mood": [
+          "위로",
+          "희망",
+          "담담함"
+        ],
+        "situation": [
+          "힘들 때",
+          "괜찮아지고 싶을 때"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "괜찮아",
+          "회복",
+          "위안"
+        ]
+      },
+      {
+        "title": "너무 싫어",
+        "mood": [
+          "서운함",
+          "이별",
+          "솔직함"
+        ],
+        "situation": [
+          "화날 때",
+          "관계에 지쳤을 때"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "짜증",
+          "관계",
+          "서운함"
+        ]
+      },
+      {
+        "title": "Malibu",
+        "mood": [
+          "청량",
+          "여름",
+          "로맨틱"
+        ],
+        "situation": [
+          "드라이브",
+          "여행",
+          "바다"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "말리부",
+          "여름",
+          "사랑"
+        ]
+      },
+      {
+        "title": "Lights Out",
+        "mood": [
+          "밤",
+          "감성",
+          "몽환적"
+        ],
+        "situation": [
+          "새벽",
+          "혼자 듣기"
+        ],
+        "energy": "low",
+        "keywords": [
+          "불 꺼진 밤",
+          "고요함"
+        ]
+      },
+      {
+        "title": "Push Me",
+        "mood": [
+          "강렬함",
+          "긴장감",
+          "도전적"
+        ],
+        "situation": [
+          "운동",
+          "집중할 때"
+        ],
+        "energy": "high",
+        "keywords": [
+          "압박",
+          "도전"
+        ]
+      },
+      {
+        "title": "Like Me",
+        "mood": [
+          "자신감",
+          "힙함",
+          "플렉스"
+        ],
+        "situation": [
+          "외출 준비",
+          "자존감 올릴 때"
+        ],
+        "energy": "high",
+        "keywords": [
+          "나다움",
+          "자존감"
+        ]
+      },
+      {
+        "title": "못봐",
+        "mood": [
+          "이별",
+          "슬픔",
+          "그리움"
+        ],
+        "situation": [
+          "헤어진 후",
+          "새벽"
+        ],
+        "energy": "low",
+        "keywords": [
+          "미련",
+          "그리움"
+        ]
+      },
+      {
+        "title": "Rain Man",
+        "mood": [
+          "우울",
+          "비 오는 날",
+          "감성"
+        ],
+        "situation": [
+          "비 오는 날",
+          "혼자 있을 때"
+        ],
+        "energy": "low",
+        "keywords": [
+          "비",
+          "외로움",
+          "생각"
+        ]
+      },
+      {
+        "title": "Olaf",
+        "mood": [
+          "귀여움",
+          "따뜻함",
+          "위트"
+        ],
+        "situation": [
+          "가볍게 듣기",
+          "기분 전환"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "눈사람",
+          "장난",
+          "밝음"
+        ]
+      },
+      {
+        "title": "Dirty Nikes",
+        "mood": [
+          "힙함",
+          "거친",
+          "스트릿"
+        ],
+        "situation": [
+          "걸을 때",
+          "운동"
+        ],
+        "energy": "high",
+        "keywords": [
+          "신발",
+          "거리",
+          "스웨그"
+        ]
+      },
+      {
+        "title": "Til I Die",
+        "mood": [
+          "진지함",
+          "다짐",
+          "열정"
+        ],
+        "situation": [
+          "동기부여",
+          "목표 세울 때"
+        ],
+        "energy": "high",
+        "keywords": [
+          "끝까지",
+          "신념"
+        ]
+      },
+      {
+        "title": "Making Film",
+        "mood": [
+          "회상",
+          "영화적",
+          "감성"
+        ],
+        "situation": [
+          "추억 정리",
+          "밤"
+        ],
+        "energy": "low",
+        "keywords": [
+          "기록",
+          "필름",
+          "기억"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Summer Episodes",
+    "date": "2019-07-23",
+    "image": "images/Summer Episodes.jpg",
+    "tracks": [
+      {
+        "title": "You Don't Know My Name",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "BOOL",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Different Summer",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "X",
+    "date": "2020-05-08",
+    "image": "images/X.jpg",
+    "tracks": [
+      {
+        "title": "사인회",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "OKAY",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "PACKITUP!",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "BLAME MY CIRCLE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "TELÉFONO",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "센 척",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "ANYMORE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "I CAN TELL",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "MORAGO",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "DRESSING ROOM",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "RED TAPE",
+    "date": "2020-09-02",
+    "image": "images/RED TAPE.jpg",
+    "tracks": [
+      {
+        "title": "H1GHR",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Melanin Handsome",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "How We Rock",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "뚝딱 Freestyle",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "4eva",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Teléfono Remix",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Closed Case",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "World Domination",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "The Purge",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "No Rush",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "BLUE TAPE",
+    "date": "2020-09-16",
+    "image": "images/BLUE TAPE.jpg",
+    "tracks": [
+      {
+        "title": "Champagne Diet",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Me&Bae",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Selfish",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Last Song",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "LIVE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Lean On Me",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Oscar",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "365&7",
+    "date": "2021-04-29",
+    "image": "images/365&7.jpg",
+    "tracks": [
+      {
+        "title": "365&7",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "BUT FOR NOW LEAVE ME ALONE",
+    "date": "2022-09-15",
+    "image": "images/BUT FOR NOW LEAVE ME ALONE.jpg",
+    "tracks": [
+      {
+        "title": "ZOMBIES",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "TGIF",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "YUPPIE TING",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "TIPSY",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "MR. BAD",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "JULIETTE!",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "RUN AWAY",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "DEAD GIRL",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "SHRINK TOLD ME",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "ISSUES",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "BREAK THE GLASS",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "POP OFF",
+    "date": "2023-11-02",
+    "image": "images/POP OFF.jpg",
+    "tracks": [
+      {
+        "title": "ROSETTA",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "COSIGN",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "INCUBATOR",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "U TELL ME",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "LUST",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "360",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "HANDS",
+    "date": "2024-12-23",
+    "image": "images/HANDS.jpg",
+    "tracks": [
+      {
+        "title": "인생영화",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Trustfall",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "WHAT HAVE WE DONE",
+    "date": "2025-08-13",
+    "image": "images/WHAT HAVE WE DONE.jpg",
+    "tracks": [
+      {
+        "title": "WHAT HAVE WE DONE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "PARTY PPL",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "KEEP IT ON THE LOW",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "MY B",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "BAKA",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "CRASHINNN OUTTT!!!",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "ERYKAH BADU",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "GOSHA",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "DRUGGED2THRILLS",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "54321",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "EASY",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "SUMMER FEVER",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "COVERED IN RAIN",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "도망쳐",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "SOAK IN BLUE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "PUPRLE TAPE",
+    "date": "2026-04-09",
+    "image": "images/PURPLE TAPE.jpg",
+    "tracks": [
+      {
+        "title": "WORKMAN",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "월드컵",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "GAGA",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "FOCKIT",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "WARM UP FREESTYLE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "MO LESSON",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "BORA",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "<3U",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "SUPERSTAR",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "BDB",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "OVERNIGHT",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "POOF!",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "GPT FREESYLE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "PHONE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "SAY NO MORE",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  }
+]

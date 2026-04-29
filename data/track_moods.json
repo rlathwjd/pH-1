@@ -1,0 +1,164 @@
+{
+  "Wavy": {
+    "mood": ["청량", "감성", "여유"],
+    "situation": ["드라이브", "산책", "기분 전환"],
+    "energy": "medium",
+    "keywords": ["파도", "청춘", "자유"]
+  },
+  "Perfect": {
+    "mood": ["달달함", "설렘", "감성"],
+    "situation": ["썸", "데이트", "밤 산책"],
+    "energy": "medium",
+    "keywords": ["사랑", "고백", "로맨틱"]
+  },
+  "Cuckoo": {
+    "mood": ["힙함", "장난스러움", "자유로움"],
+    "situation": ["기분 전환", "가볍게 듣기"],
+    "energy": "medium",
+    "keywords": ["재치", "개성"]
+  },
+  "'15": {
+    "mood": ["회상", "감성", "잔잔함"],
+    "situation": ["혼자 있을 때", "밤"],
+    "energy": "low",
+    "keywords": ["추억", "과거", "성장"]
+  },
+  "Christ": {
+    "mood": ["진지함", "내면적", "묵직함"],
+    "situation": ["생각 정리", "혼자 듣기"],
+    "energy": "low",
+    "keywords": ["믿음", "고민", "자아"]
+  },
+  "Escobar": {
+    "mood": ["강렬함", "힙함", "자신감"],
+    "situation": ["운동", "외출 준비"],
+    "energy": "high",
+    "keywords": ["스웨그", "야망"]
+  },
+  "Game Night": {
+    "mood": ["신남", "장난스러움", "캐주얼"],
+    "situation": ["친구들과", "파티"],
+    "energy": "high",
+    "keywords": ["게임", "밤", "친구"]
+  },
+  "Donut": {
+    "mood": ["귀여움", "가벼움", "달달함"],
+    "situation": ["기분 좋을 때", "카페"],
+    "energy": "medium",
+    "keywords": ["달콤함", "장난"]
+  },
+  "Communicate": {
+    "mood": ["감성", "그루비", "도시적"],
+    "situation": ["밤 드라이브", "대화가 필요할 때"],
+    "energy": "medium",
+    "keywords": ["소통", "관계"]
+  },
+  "Penthouse": {
+    "mood": ["고급스러움", "자신감", "힙함"],
+    "situation": ["외출 준비", "도시 밤"],
+    "energy": "high",
+    "keywords": ["성공", "럭셔리"]
+  },
+  "harry's question": {
+    "mood": ["내면적", "궁금함", "몽글몽글"],
+    "situation": ["혼자 생각할 때", "밤"],
+    "energy": "low",
+    "keywords": ["질문", "자아", "고민"]
+  },
+  "비싸": {
+    "mood": ["힙함", "자신감", "플렉스"],
+    "situation": ["외출 준비", "기분 올릴 때"],
+    "energy": "high",
+    "keywords": ["돈", "자신감", "스웨그"]
+  },
+  "DVD": {
+    "mood": ["감성", "회상", "빈티지"],
+    "situation": ["밤", "추억 회상"],
+    "energy": "low",
+    "keywords": ["기억", "영화", "추억"]
+  },
+  "Groupie": {
+    "mood": ["힙함", "장난스러움", "자신감"],
+    "situation": ["파티", "기분 전환"],
+    "energy": "high",
+    "keywords": ["인기", "플러팅"]
+  },
+  "Cupid": {
+    "mood": ["설렘", "달달함", "몽글몽글"],
+    "situation": ["썸", "데이트", "봄"],
+    "energy": "medium",
+    "keywords": ["사랑", "큐피드", "고백"]
+  },
+  "Alright": {
+    "mood": ["위로", "희망", "담담함"],
+    "situation": ["힘들 때", "괜찮아지고 싶을 때"],
+    "energy": "medium",
+    "keywords": ["괜찮아", "회복", "위안"]
+  },
+  "너무 싫어": {
+    "mood": ["서운함", "이별", "솔직함"],
+    "situation": ["화날 때", "관계에 지쳤을 때"],
+    "energy": "medium",
+    "keywords": ["짜증", "관계", "서운함"]
+  },
+  "Malibu": {
+    "mood": ["청량", "여름", "로맨틱"],
+    "situation": ["드라이브", "여행", "바다"],
+    "energy": "medium",
+    "keywords": ["말리부", "여름", "사랑"]
+  },
+  "Lights Out": {
+    "mood": ["밤", "감성", "몽환적"],
+    "situation": ["새벽", "혼자 듣기"],
+    "energy": "low",
+    "keywords": ["불 꺼진 밤", "고요함"]
+  },
+  "Push Me": {
+    "mood": ["강렬함", "긴장감", "도전적"],
+    "situation": ["운동", "집중할 때"],
+    "energy": "high",
+    "keywords": ["압박", "도전"]
+  },
+  "Like Me": {
+    "mood": ["자신감", "힙함", "플렉스"],
+    "situation": ["외출 준비", "자존감 올릴 때"],
+    "energy": "high",
+    "keywords": ["나다움", "자존감"]
+  },
+  "못봐": {
+    "mood": ["이별", "슬픔", "그리움"],
+    "situation": ["헤어진 후", "새벽"],
+    "energy": "low",
+    "keywords": ["미련", "그리움"]
+  },
+  "Rain Man": {
+    "mood": ["우울", "비 오는 날", "감성"],
+    "situation": ["비 오는 날", "혼자 있을 때"],
+    "energy": "low",
+    "keywords": ["비", "외로움", "생각"]
+  },
+  "Olaf": {
+    "mood": ["귀여움", "따뜻함", "위트"],
+    "situation": ["가볍게 듣기", "기분 전환"],
+    "energy": "medium",
+    "keywords": ["눈사람", "장난", "밝음"]
+  },
+  "Dirty Nikes": {
+    "mood": ["힙함", "거친", "스트릿"],
+    "situation": ["걸을 때", "운동"],
+    "energy": "high",
+    "keywords": ["신발", "거리", "스웨그"]
+  },
+  "Til I Die": {
+    "mood": ["진지함", "다짐", "열정"],
+    "situation": ["동기부여", "목표 세울 때"],
+    "energy": "high",
+    "keywords": ["끝까지", "신념"]
+  },
+  "Making Film": {
+    "mood": ["회상", "영화적", "감성"],
+    "situation": ["추억 정리", "밤"],
+    "energy": "low",
+    "keywords": ["기록", "필름", "기억"]
+  }
+}

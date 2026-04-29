@@ -19,23 +19,136 @@ function renderHome() {
   yearMenu.classList.add("hidden");
 
   content.innerHTML = `
-    <h2 class="page-title">hello</h2>
+    <section class="home-page">
+      <h2 class="home-desc">Welcome to pH-1 archive</h2>
+
+      <div class="mood-section">
+        <div class="mood-row">
+          <div class="mood-buttons">
+            <button data-mood="감성">감성</button>
+            <button data-mood="설렘">설렘</button>
+            <button data-mood="힙함">힙함</button>
+            <button data-mood="청량">청량</button>
+            <button data-mood="위로">위로</button>
+            <button data-situation="드라이브">드라이브</button>
+          </div>
+
+          <button id="recommend-btn" class="recommend-btn">추천받기</button>
+        </div>
+
+        <div id="selected-tags" class="selected-tags"></div>
+        <div id="toast-message" class="toast-message"></div>
+        <div id="recommend-result"></div>
+      </div>
+    </section>
   `;
 }
 
-function renderPhoto() {
-  yearMenu.classList.add("hidden");
+document.addEventListener("click", (e) => {
+  const moodButton = e.target.closest(".mood-buttons button");
 
-  const cards = photoItems.map(item => `
-    <div class="card">
-      <img src="${item.image}" alt="${item.title}">
-    </div>
-  `).join("");
+  if (moodButton) {
+    const tag = moodButton.dataset.mood || moodButton.dataset.situation;
 
-  content.innerHTML = `
-    <h2 class="page-title">Photo</h2>
-    <div class="card-grid">
-      ${cards}
+    if (selectedTags.includes(tag)) {
+      selectedTags = selectedTags.filter(item => item !== tag);
+      moodButton.classList.remove("selected");
+    } else {
+      if (selectedTags.length >= 3) {
+        showToast("최대 3개까지만 선택할 수 있어!");
+        return;
+      }
+
+      selectedTags.push(tag);
+      moodButton.classList.add("selected");
+    }
+
+    return;
+  }
+
+  const recommendButton = e.target.closest("#recommend-btn");
+
+  if (recommendButton) {
+    if (selectedTags.length === 0) {
+      showToast("무드를 하나 이상 선택해줘!");
+      return;
+    }
+
+    getRecommendation(selectedTags);
+  }
+});
+
+function showToast(message) {
+  const toast = document.getElementById("toast-message");
+  if (!toast) return;
+
+  toast.textContent = message;
+  toast.classList.add("show");
+
+  setTimeout(() => {
+    toast.classList.remove("show");
+  }, 1800);
+}
+
+function renderSelectedTags() {
+  const selectedBox = document.getElementById("selected-tags");
+  if (!selectedBox) return;
+
+  selectedBox.innerHTML = selectedTags
+    .map(tag => `<span class="selected-tag">#${tag}</span>`)
+    .join("");
+}
+
+let selectedTags = [];
+
+
+// 곡 추천
+async function getRecommendation(tags) {
+  const resultBox = document.getElementById("recommend-result");
+
+  resultBox.innerHTML = `
+  <p class="loading-text">🎧 추천 곡 찾는 중...</p>
+`;
+
+  const res = await fetch("http://127.0.0.1:8000/recommend", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ moods: tags })
+  });
+
+  const data = await res.json();
+  renderRecommendations(data.recommendations);
+}
+
+// 추천 곡 렌더링
+function renderRecommendations(recommendations) {
+  const resultBox = document.getElementById("recommend-result");
+
+  resultBox.innerHTML = `
+    <div class="recommend-list">
+      ${recommendations.map(item => `
+        <div class="recommend-card">
+          <img class="recommend-img" src="${item.image}" alt="${item.title}">
+
+          <div class="recommend-info">
+            <div class="title-row">
+              <div class="title-text">
+                <span class="track-title">${item.title}</span>
+                <span class="album-name">${item.album}</span>
+              </div>
+
+              <a href="${item.spotify || item.youtube || '#'}" 
+                target="_blank" 
+                class="play-btn">
+                ▶ 들으러 가기
+              </a>
+            </div>
+              <p class="reason">${item.reason}</p>
+          </div>
+        </div>
+      `).join("")}
     </div>
   `;
 }
@@ -43,7 +156,7 @@ function renderPhoto() {
 let careerData = [];
 
 // spotify api로 가져온 데이터 띄우기
-fetch("spotify_data.json")
+fetch("./data/spotify_data.json")
   .then(res => res.json())
   .then(data => {
     const grouped = {};
