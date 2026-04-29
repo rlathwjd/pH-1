@@ -207,7 +207,9 @@ a {
 }
 
 .recommend-card {
-  width: 800px;
+  /* width: 800px; */
+  width: 100%;
+  max-width: 800px;
   padding: 16px;
 
   display: flex;
