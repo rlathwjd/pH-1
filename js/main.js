@@ -4,17 +4,7 @@ const homeLink = document.getElementById("home-link");
 const pageLinks = document.querySelectorAll("[data-page]");
 const yearLinks = document.querySelectorAll("[data-year]");
 
-const photoItems = [
-  { title: "Photo 1", image: "images/축구복.jpg" },
-  { title: "Photo 2", image: "images/하트.jpg" },
-  { title: "Photo 3", image: "images/차.jpg" },
-  { title: "Photo 4", image: "images/스토리.jpg" },
-  { title: "Photo 5", image: "images/인스타.jpg" },
-  { title: "Photo 6", image: "images/눈1.jpg" },
-  { title: "Photo 7", image: "images/눈2.jpg" },
-  { title: "Photo 8", image: "images/강아지.jpg" }
-];
-
+// 메인 홈
 function renderHome() {
   yearMenu.classList.add("hidden");
 
@@ -152,6 +142,39 @@ function renderRecommendations(recommendations) {
     </div>
   `;
 }
+
+
+// 사진
+const photoItems = [
+  { title: "Photo 1", image: "images/축구복.jpg" },
+  { title: "Photo 2", image: "images/하트.jpg" },
+  { title: "Photo 3", image: "images/차.jpg" },
+  { title: "Photo 4", image: "images/스토리.jpg" },
+  { title: "Photo 5", image: "images/인스타.jpg" },
+  { title: "Photo 6", image: "images/눈1.jpg" },
+  { title: "Photo 7", image: "images/눈2.jpg" },
+  { title: "Photo 8", image: "images/강아지.jpg" }
+];
+
+function renderPhoto() {
+  yearMenu.classList.add("hidden");
+
+  const cards = photoItems
+    .map(item => `
+      <div class="card">
+        <img src="${item.image}" alt="${item.title}">
+      </div>
+    `)
+    .join("");
+
+  content.innerHTML = `
+    <h2 class="page-title">Photo</h2>
+    <div class="card-grid">
+      ${cards}
+    </div>
+  `;
+}
+
 
 let careerData = [];
 
