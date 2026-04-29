@@ -14,12 +14,6 @@ a {
   text-decoration: none;
 }
 
-.container {
-  width: 100%;
-  border: 2px solid black;
-  min-height: calc(100vh - 90px);
-}
-
 /* header */
 .site-header {
   font-size: 3rem;
@@ -69,6 +63,12 @@ a {
 }
 
 /* layout */
+.container {
+  width: 100%;
+  border: 2px solid black;
+  min-height: calc(100vh - 90px);
+}
+
 .sidebar,
 .content,
 .rightbar {
@@ -112,6 +112,7 @@ a {
   font-weight: bold;
 }
 
+/* menu */
 .menu {
   color: black;
 }
@@ -140,7 +141,7 @@ a {
   display: none;
 }
 
-/* content styles */
+/* content */
 .page-title {
   font-size: 2.2rem;
   margin-top: 0;
@@ -156,14 +157,15 @@ a {
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3칸 고정 */
+  grid-template-columns: repeat(3, 1fr);
   gap: 30px;
-  justify-items: center; /* 카드 가운데 정렬 */
+  justify-items: center;
 }
 
 .card {
-  width: 100px;   /* 기준 */
+  width: 100px;
   text-align: center;
+  position: relative;
 }
 
 .card img {
@@ -187,33 +189,47 @@ a {
   margin-top: 4px;
 }
 
-.tracklist {
-  display: none;
+.track-panel {
+  position: absolute;  
+  left: 140px;         
+  top: 0;              
+  background: white;
+  padding: 10px 16px;
+  border: 2px solid black;
+  width: 400px;
+  height: 380px;
+  text-align: left;
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+.track-title {
   margin-top: 10px;
-  padding-left: 15px;
+  margin-left: 10px;
+}
+
+.track-list {
+  max-height: 290px;
+  overflow-y: auto;
+  line-height: 1.8;
   color: #333;
 }
 
-.content {
-  position: relative;
+.tracklist {
+  margin: 0;
+  padding-left: 24px;
 }
 
+/* back button */
 .back-button {
   position: absolute;
   top: 22px;
   left: 28px;
-
   background: none;
   border: none;
   padding: 0;
   margin: 0;
-
   font-size: 30px;
   line-height: 2;
-
-  width: auto;
-  height: auto;
-
   cursor: pointer;
   z-index: 10;
 }
@@ -222,6 +238,7 @@ a {
   opacity: 0.6;
 }
 
+/* aside */
 .aside-links {
   display: flex;
   flex-direction: column;
@@ -235,6 +252,7 @@ a {
   object-fit: cover;
 }
 
+/* mobile */
 @media (max-width: 768px) {
   .sidebar,
   .content,
@@ -267,5 +285,13 @@ a {
 
   .site-header {
     font-size: 2.2rem;
+  }
+
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .track-panel {
+    width: 100%;
   }
 }

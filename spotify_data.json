@@ -1,0 +1,228 @@
+[
+  {
+    "title": "Wavy",
+    "date": "2016-10-21",
+    "image": "images/Wavy.jpg",
+    "tracks": [
+      "Wavy"
+    ]
+  },
+  {
+    "title": "Perfect",
+    "date": "2016-11-29",
+    "image": "images/Perfect.jpg",
+    "tracks": [
+      "Perfect"
+    ]
+  },
+  {
+    "title": "The Island Kid",
+    "date": "2017-10-18",
+    "image": "images/The Island Kid.jpg",
+    "tracks": [
+      "Cuckoo",
+      "'15",
+      "Christ",
+      "Escobar",
+      "Game Night",
+      "Donut"
+    ]
+  },
+  {
+    "title": "GATSBY",
+    "date": "2018-02-04",
+    "image": "images/GATSBY.jpg",
+    "tracks": [
+      "Communicate",
+      "Penthouse"
+    ]
+  },
+  {
+    "title": "harry",
+    "date": "2018-06-22",
+    "image": "images/harry.jpg",
+    "tracks": [
+      "harry's question",
+      "비싸",
+      "DVD"
+    ]
+  },
+  {
+    "title": "loves",
+    "date": "2018-08-20",
+    "image": "images/loves.jpg",
+    "tracks": [
+      "Groupie",
+      "Cupid"
+    ]
+  },
+  {
+    "title": "HALO",
+    "date": "2019-03-28",
+    "image": "images/HALO.jpg",
+    "tracks": [
+      "Alright",
+      "너무 싫어",
+      "Malibu",
+      "Lights Out",
+      "Push Me",
+      "Like Me",
+      "못봐",
+      "Rain Man",
+      "Olaf",
+      "Dirty Nikes",
+      "Til I Die",
+      "Making Film"
+    ]
+  },
+  {
+    "title": "Summer Episodes",
+    "date": "2019-07-23",
+    "image": "images/Summer Episodes.jpg",
+    "tracks": [
+      "You Don't Know My Name",
+      "BOOL",
+      "Different Summer"
+    ]
+  },
+  {
+    "title": "X",
+    "date": "2020-05-08",
+    "image": "images/X.jpg",
+    "tracks": [
+      "사인회",
+      "OKAY",
+      "PACKITUP!",
+      "BLAME MY CIRCLE",
+      "TELÉFONO",
+      "센 척",
+      "ANYMORE",
+      "I CAN TELL",
+      "MORAGO",
+      "DRESSING ROOM"
+    ]
+  },
+  {
+    "title": "RED TAPE",
+    "date": "2020-09-02",
+    "image": "images/RED TAPE.jpg",
+    "tracks": [
+      "H1GHR",
+      "Melanin Handsome",
+      "How We Rock",
+      "뚝딱 Freestyle",
+      "4eva",
+      "Teléfono Remix",
+      "Closed Case",
+      "World Domination",
+      "The Purge",
+      "No Rush"
+    ]
+  },
+  {
+    "title": "BLUE TAPE",
+    "date": "2020-09-16",
+    "image": "images/BLUE TAPE.jpg",
+    "tracks": [
+      "Champagne Diet",
+      "Me&Bae",
+      "Selfish",
+      "Last Song",
+      "LIVE",
+      "Lean On Me",
+      "Oscar"
+    ]
+  },
+  {
+    "title": "365&7",
+    "date": "2021-04-29",
+    "image": "images/365&7.jpg",
+    "tracks": [
+      "365&7"
+    ]
+  },
+  {
+    "title": "BUT FOR NOW LEAVE ME ALONE",
+    "date": "2022-09-15",
+    "image": "images/BUT FOR NOW LEAVE ME ALONE.jpg",
+    "tracks": [
+      "ZOMBIES",
+      "TGIF",
+      "YUPPIE TING",
+      "TIPSY",
+      "MR. BAD",
+      "JULIETTE!",
+      "RUN AWAY",
+      "DEAD GIRL",
+      "SHRINK TOLD ME",
+      "ISSUES",
+      "BREAK THE GLASS"
+    ]
+  },
+  {
+    "title": "POP OFF",
+    "date": "2023-11-02",
+    "image": "images/POP OFF.jpg",
+    "tracks": [
+      "ROSETTA",
+      "COSIGN",
+      "INCUBATOR",
+      "U TELL ME",
+      "LUST",
+      "360"
+    ]
+  },
+  {
+    "title": "HANDS",
+    "date": "2024-12-23",
+    "image": "images/HANDS.jpg",
+    "tracks": [
+      "인생영화",
+      "Trustfall"
+    ]
+  },
+  {
+    "title": "WHAT HAVE WE DONE",
+    "date": "2025-08-13",
+    "image": "images/WHAT HAVE WE DONE.jpg",
+    "tracks": [
+      "WHAT HAVE WE DONE",
+      "PARTY PPL",
+      "KEEP IT ON THE LOW",
+      "MY B",
+      "BAKA",
+      "CRASHINNN OUTTT!!!",
+      "ERYKAH BADU",
+      "GOSHA",
+      "DRUGGED2THRILLS",
+      "54321",
+      "EASY",
+      "SUMMER FEVER",
+      "COVERED IN RAIN",
+      "도망쳐",
+      "SOAK IN BLUE"
+    ]
+  },
+  {
+    "title": "PUPRLE TAPE",
+    "date": "2026-04-09",
+    "image": "images/PURPLE TAPE.jpg",
+    "tracks": [
+      "WORKMAN",
+      "월드컵",
+      "GAGA",
+      "FOCKIT",
+      "WARM UP FREESTYLE",
+      "MO LESSON",
+      "BORA", 
+      "<3U",
+      "SUPERSTAR",
+      "BDB",
+      "OVERNIGHT",
+      "POOF!",
+      "GPT FREESYLE",
+      "PHONE",
+      "SAY NO MORE"
+    ]
+  }
+]
