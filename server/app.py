@@ -5,6 +5,9 @@ import json
 import requests
 import re
 from typing import List
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
 app = FastAPI()
 
@@ -83,16 +86,46 @@ def recommend(req: RecommendRequest):
 {json.dumps(candidates, ensure_ascii=False, indent=2)}
 """
 
+    GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
+    if not GROQ_API_KEY:
+        return {
+            "moods": req.moods,
+            "recommendations": [],
+            "error": "GROQ_API_KEY가 설정되지 않았습니다."
+        }
+
     res = requests.post(
-        "http://localhost:11434/api/generate",
+    "https://api.groq.com/openai/v1/chat/completions",
+        headers={
+            "Authorization": f"Bearer {GROQ_API_KEY}",
+            "Content-Type": "application/json"
+        },
         json={
-            "model": "gemma3",
-            "prompt": prompt,
-            "stream": False
+            "model": "llama-3.1-8b-instant",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": prompt
+                }
+            ],
+            "temperature": 0.7
         }
     )
 
-    llm_text = res.json()["response"]
+    print("Groq status:", res.status_code)
+    print("Groq response:", res.text)
+
+    if res.status_code != 200:
+        print("Groq 요청 실패:", res.status_code)
+        print(res.text)
+        return {
+            "moods": req.moods,
+            "recommendations": [],
+            "error": "Groq 요청 실패"
+        }
+
+    llm_text = res.json()["choices"][0]["message"]["content"]
     recommendations = parse_llm_json(llm_text)
 
     for rec in recommendations:

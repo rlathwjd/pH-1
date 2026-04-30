@@ -2,9 +2,13 @@ import requests
 import base64
 import json
 import time
+import os
+from dotenv import load_dotenv
 
-client_id = "cbb734ec170d4ca482b5a8bab13e7332"
-client_secret = "afd7f679b32a49d8b992d2f5ef967cb8"
+load_dotenv()
+
+client_id = os.getenv("SPOTIFY_CLIENT_ID")
+client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
 
 def get_token():
     url = "https://accounts.spotify.com/api/token"
