@@ -1,310 +1,479 @@
 [
   {
-    "title": "Wavy",
-    "date": "2016-10-21",
-    "image": "images/Wavy.jpg",
+    "title": "WHAT HAVE WE DONE",
+    "date": "2025-08-13",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cbcfde8e7e00d26dd9c4a508",
     "tracks": [
       {
-        "title": "Wavy",
+        "title": "WHAT HAVE WE DONE",
+        "spotify": "https://open.spotify.com/track/20vFAtfeIYgq7p7wWf8eAN",
         "mood": [
-          "청량",
           "감성",
-          "여유"
-        ],
-        "situation": [
-          "드라이브",
-          "산책",
-          "기분 전환"
-        ],
-        "energy": "medium",
-        "keywords": [
-          "파도",
-          "청춘",
-          "자유"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "Perfect",
-    "date": "2016-11-29",
-    "image": "images/Perfect.jpg",
-    "tracks": [
-      {
-        "title": "Perfect",
-        "mood": [
-          "달달함",
-          "설렘",
-          "감성"
-        ],
-        "situation": [
-          "썸",
-          "데이트",
-          "밤 산책"
-        ],
-        "energy": "medium",
-        "keywords": [
-          "사랑",
-          "고백",
-          "로맨틱"
-        ]
-      }
-    ],
-    "spotify": "https://open.spotify.com/track/7Coi8O3oswmsoXkfYtT7GE"
-  },
-  {
-    "title": "The Island Kid",
-    "date": "2017-10-18",
-    "image": "images/The Island Kid.jpg",
-    "tracks": [
-      {
-        "title": "Cuckoo",
-        "mood": [
-          "힙함",
-          "장난스러움",
-          "자유로움"
-        ],
-        "situation": [
-          "기분 전환",
-          "가볍게 듣기"
-        ],
-        "energy": "medium",
-        "keywords": [
-          "재치",
-          "개성"
-        ]
-      },
-      {
-        "title": "'15",
-        "mood": [
-          "회상",
-          "감성",
+          "후회",
           "잔잔함"
         ],
         "situation": [
-          "혼자 있을 때",
-          "밤"
+          "밤",
+          "혼자 있을 때"
         ],
         "energy": "low",
         "keywords": [
-          "추억",
+          "후회",
           "과거",
-          "성장"
-        ]
-      },
-      {
-        "title": "Christ",
-        "mood": [
-          "진지함",
-          "내면적",
-          "묵직함"
-        ],
-        "situation": [
-          "생각 정리",
-          "혼자 듣기"
-        ],
-        "energy": "low",
-        "keywords": [
-          "믿음",
-          "고민",
           "자아"
         ]
       },
       {
-        "title": "Escobar",
-        "mood": [
-          "강렬함",
-          "힙함",
-          "자신감"
-        ],
-        "situation": [
-          "운동",
-          "외출 준비"
-        ],
-        "energy": "high",
-        "keywords": [
-          "스웨그",
-          "야망"
-        ]
-      },
-      {
-        "title": "Game Night",
+        "title": "PARTY PPL (Feat. Min Jiwoon)",
+        "spotify": "https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp",
         "mood": [
           "신남",
-          "장난스러움",
-          "캐주얼"
+          "힙함",
+          "파티"
         ],
         "situation": [
-          "친구들과",
-          "파티"
+          "파티",
+          "친구들과"
         ],
         "energy": "high",
         "keywords": [
-          "게임",
           "밤",
-          "친구"
+          "클럽",
+          "흥"
         ]
       },
       {
-        "title": "Donut",
+        "title": "KEEP IT ON THE LOW (Feat. lIlBOI)",
+        "spotify": "https://open.spotify.com/track/5mIVTVI72CDH37t5BX8z9e",
         "mood": [
-          "귀여움",
-          "가벼움",
-          "달달함"
-        ],
-        "situation": [
-          "기분 좋을 때",
-          "카페"
-        ],
-        "energy": "medium",
-        "keywords": [
-          "달콤함",
-          "장난"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "GATSBY",
-    "date": "2018-02-04",
-    "image": "images/GATSBY.jpg",
-    "tracks": [
-      {
-        "title": "Communicate",
-        "mood": [
-          "감성",
-          "그루비",
-          "도시적"
-        ],
-        "situation": [
-          "밤 드라이브",
-          "대화가 필요할 때"
-        ],
-        "energy": "medium",
-        "keywords": [
-          "소통",
-          "관계"
-        ]
-      },
-      {
-        "title": "Penthouse",
-        "mood": [
-          "고급스러움",
-          "자신감",
+          "쿨함",
+          "여유",
           "힙함"
         ],
         "situation": [
-          "외출 준비",
-          "도시 밤"
+          "드라이브",
+          "혼자 듣기"
         ],
-        "energy": "high",
+        "energy": "medium",
         "keywords": [
-          "성공",
-          "럭셔리"
-        ]
-      }
-    ]
-  },
-  {
-    "title": "harry",
-    "date": "2018-06-22",
-    "image": "images/harry.jpg",
-    "tracks": [
-      {
-        "title": "harry's question",
-        "mood": [
-          "내면적",
-          "궁금함",
-          "몽글몽글"
-        ],
-        "situation": [
-          "혼자 생각할 때",
-          "밤"
-        ],
-        "energy": "low",
-        "keywords": [
-          "질문",
-          "자아",
-          "고민"
+          "비밀",
+          "관계",
+          "쿨"
         ]
       },
       {
-        "title": "비싸",
+        "title": "MY B",
+        "spotify": "https://open.spotify.com/track/0O21tTyiBiulEV14nlMx9o",
         "mood": [
-          "힙함",
-          "자신감",
-          "플렉스"
+          "설렘",
+          "가벼움",
+          "감성"
         ],
         "situation": [
-          "외출 준비",
+          "썸",
+          "데이트"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "호감",
+          "연애"
+        ]
+      },
+      {
+        "title": "BAKA (Feat. CHANMINA)",
+        "spotify": "https://open.spotify.com/track/43WXvU5sfCdTjAaNCqwRLT",
+        "mood": [
+          "강렬함",
+          "도발적",
+          "힙함"
+        ],
+        "situation": [
+          "외출",
           "기분 올릴 때"
         ],
         "energy": "high",
         "keywords": [
-          "돈",
-          "자신감",
-          "스웨그"
+          "자존감",
+          "태도"
         ]
       },
       {
-        "title": "DVD",
+        "title": "CRASHINNN OUTTT!!!",
+        "spotify": "https://open.spotify.com/track/0KWeTuohy512Wa3vePoran",
         "mood": [
-          "감성",
-          "회상",
-          "빈티지"
+          "분노",
+          "폭발",
+          "격함"
+        ],
+        "situation": [
+          "스트레스 받을 때"
+        ],
+        "energy": "high",
+        "keywords": [
+          "폭발",
+          "감정"
+        ]
+      },
+      {
+        "title": "ERYKAH BADU (Feat. CAMO)",
+        "spotify": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O",
+        "mood": [
+          "몽환적",
+          "그루비",
+          "감성"
+        ],
+        "situation": [
+          "밤 드라이브"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "바이브",
+          "감각"
+        ]
+      },
+      {
+        "title": "GOSHA (Feat. Karencici)",
+        "spotify": "https://open.spotify.com/track/12zn8gSltqNij6zmx9b165",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "DRUGGED2THRILLS",
+        "spotify": "https://open.spotify.com/track/4PKtQ47ym7rDD75vccLGKJ",
+        "mood": [
+          "몽환적",
+          "중독성",
+          "힙함"
         ],
         "situation": [
           "밤",
-          "추억 회상"
+          "혼자"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "중독",
+          "쾌감"
+        ]
+      },
+      {
+        "title": "54321 (Feat. HAEWON of NMIXX)",
+        "spotify": "https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz",
+        "mood": [
+          "신남",
+          "텐션",
+          "청량"
+        ],
+        "situation": [
+          "드라이브",
+          "운동"
+        ],
+        "energy": "high",
+        "keywords": [
+          "카운트다운",
+          "속도"
+        ]
+      },
+      {
+        "title": "EASY (Feat. THAMA)",
+        "spotify": "https://open.spotify.com/track/2N4XsISPAYbi37LlxhfIT7",
+        "mood": [
+          "여유",
+          "부드러움",
+          "감성"
+        ],
+        "situation": [
+          "카페",
+          "휴식"
         ],
         "energy": "low",
         "keywords": [
-          "기억",
-          "영화",
-          "추억"
+          "편안함",
+          "느긋"
+        ]
+      },
+      {
+        "title": "SUMMER FEVER (Feat. aiai)",
+        "spotify": "https://open.spotify.com/track/371T3piMigFSScaVWHncAL",
+        "mood": [
+          "청량",
+          "여름",
+          "설렘"
+        ],
+        "situation": [
+          "여행",
+          "드라이브"
+        ],
+        "energy": "high",
+        "keywords": [
+          "여름",
+          "열기"
+        ]
+      },
+      {
+        "title": "COVERED IN RAIN",
+        "spotify": "https://open.spotify.com/track/0Jw5thEts8t9ETdKrUaLaz",
+        "mood": [
+          "우울",
+          "감성",
+          "쓸쓸함"
+        ],
+        "situation": [
+          "비 오는 날"
+        ],
+        "energy": "low",
+        "keywords": [
+          "비",
+          "외로움"
+        ]
+      },
+      {
+        "title": "HAD I KNOWN",
+        "spotify": "https://open.spotify.com/track/0ybgvUNl1JjbQWKWgU8jYV",
+        "mood": [
+          "후회",
+          "감성",
+          "잔잔함"
+        ],
+        "situation": [
+          "혼자 생각할 때"
+        ],
+        "energy": "low",
+        "keywords": [
+          "선택",
+          "후회"
+        ]
+      },
+      {
+        "title": "SOAK IN BLUE",
+        "spotify": "https://open.spotify.com/track/1Qm15bPetnwyDxfRSmPngS",
+        "mood": [
+          "우울",
+          "몽환적",
+          "잔잔함"
+        ],
+        "situation": [
+          "밤",
+          "혼자"
+        ],
+        "energy": "low",
+        "keywords": [
+          "블루",
+          "감정"
         ]
       }
     ]
   },
   {
-    "title": "loves",
-    "date": "2018-08-20",
-    "image": "images/loves.jpg",
+    "title": "BUT FOR NOW LEAVE ME ALONE",
+    "date": "2022-09-15",
+    "image": "https://i.scdn.co/image/ab67616d0000b27302ab0f34acddd0293503ff76",
     "tracks": [
       {
-        "title": "Groupie",
+        "title": "ZOMBIES",
+        "spotify": "https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc",
         "mood": [
-          "힙함",
-          "장난스러움",
-          "자신감"
+          "무기력",
+          "어두움",
+          "비판적"
         ],
         "situation": [
-          "파티",
-          "기분 전환"
+          "생각 정리"
         ],
-        "energy": "high",
+        "energy": "medium",
         "keywords": [
-          "인기",
-          "플러팅"
+          "사회",
+          "현실"
         ]
       },
       {
-        "title": "Cupid",
+        "title": "TGIF",
+        "spotify": "https://open.spotify.com/track/6LOB6nwHs1vffybRHlv9eX",
+        "mood": [
+          "신남",
+          "해방감",
+          "캐주얼"
+        ],
+        "situation": [
+          "금요일",
+          "퇴근 후"
+        ],
+        "energy": "high",
+        "keywords": [
+          "주말",
+          "자유"
+        ]
+      },
+      {
+        "title": "YUPPIE TING (Feat. Blase)",
+        "spotify": "https://open.spotify.com/track/0xR7hKYvGPdVoZOjGPkUEo",
+        "mood": [
+          "힙함",
+          "자신감",
+          "트렌디"
+        ],
+        "situation": [
+          "외출"
+        ],
+        "energy": "high",
+        "keywords": [
+          "라이프스타일"
+        ]
+      },
+      {
+        "title": "TIPSY",
+        "spotify": "https://open.spotify.com/track/6DB2B0oxQTHdV6Q5j7uxRV",
+        "mood": [
+          "몽글몽글",
+          "취기",
+          "감성"
+        ],
+        "situation": [
+          "술 마실 때"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "술",
+          "감정"
+        ]
+      },
+      {
+        "title": "MR. BAD (Feat. Woo)",
+        "spotify": "https://open.spotify.com/track/6kvdVqG2lXPvBqwqh6aoKV",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "JULIETTE! (Feat. UMI)",
+        "spotify": "https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu",
         "mood": [
           "설렘",
-          "달달함",
-          "몽글몽글"
+          "로맨틱",
+          "감성"
         ],
         "situation": [
           "썸",
-          "데이트",
-          "봄"
+          "데이트"
         ],
         "energy": "medium",
         "keywords": [
           "사랑",
-          "큐피드",
-          "고백"
+          "연애"
+        ]
+      },
+      {
+        "title": "RUN AWAY",
+        "spotify": "https://open.spotify.com/track/2FSoOK1i7PwQjBNngifdw2",
+        "mood": [
+          "도피",
+          "자유",
+          "감성"
+        ],
+        "situation": [
+          "힘들 때"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "탈출"
+        ]
+      },
+      {
+        "title": "DEAD GIRL",
+        "spotify": "https://open.spotify.com/track/4HqdBguhzbczuMLGszvx6s",
+        "mood": [
+          "어두움",
+          "우울",
+          "강렬"
+        ],
+        "situation": [
+          "혼자"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "상실"
+        ]
+      },
+      {
+        "title": "SHRINK TOLD ME (Feat. Mokyo)",
+        "spotify": "https://open.spotify.com/track/0Dy1T7Pvl7G978QbaxYcfk",
+        "mood": [
+          "내면적",
+          "상담",
+          "감성"
+        ],
+        "situation": [
+          "생각 정리"
+        ],
+        "energy": "low",
+        "keywords": [
+          "자아",
+          "치유"
+        ]
+      },
+      {
+        "title": "ISSUES (Feat. Paloalto)",
+        "spotify": "https://open.spotify.com/track/17F7aH5vOipO1sTkJwoCOI",
+        "mood": [
+          "갈등",
+          "현실적",
+          "힙함"
+        ],
+        "situation": [
+          "고민할 때"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "문제",
+          "관계"
+        ]
+      },
+      {
+        "title": "BREAK THE GLASS",
+        "spotify": "https://open.spotify.com/track/5a2AAJPr3Cxq9L0Cgyrw0l",
+        "mood": [
+          "강렬함",
+          "분노",
+          "돌파"
+        ],
+        "situation": [
+          "스트레스 해소"
+        ],
+        "energy": "high",
+        "keywords": [
+          "폭발"
+        ]
+      },
+      {
+        "title": "FINAL BOUT (Feat. Los)",
+        "spotify": "https://open.spotify.com/track/3c4u00zq99PqJHJAQYC0MS",
+        "mood": [
+          "결의",
+          "긴장감"
+        ],
+        "situation": [
+          "결정할 때"
+        ],
+        "energy": "high",
+        "keywords": [
+          "마지막"
+        ]
+      },
+      {
+        "title": "BVE",
+        "spotify": "https://open.spotify.com/track/029c87h89Hs3c0kazbrGRc",
+        "mood": [
+          "힙함",
+          "여유"
+        ],
+        "situation": [
+          "드라이브"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "바이브"
         ]
       }
     ]
@@ -312,10 +481,11 @@
   {
     "title": "HALO",
     "date": "2019-03-28",
-    "image": "images/HALO.jpg",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738d87342c49541748bb5ce497",
     "tracks": [
       {
         "title": "Alright",
+        "spotify": "https://open.spotify.com/track/7G11zlyXdtwbV8DxxngCD4",
         "mood": [
           "위로",
           "희망",
@@ -333,25 +503,16 @@
         ]
       },
       {
-        "title": "너무 싫어",
-        "mood": [
-          "서운함",
-          "이별",
-          "솔직함"
-        ],
-        "situation": [
-          "화날 때",
-          "관계에 지쳤을 때"
-        ],
-        "energy": "medium",
-        "keywords": [
-          "짜증",
-          "관계",
-          "서운함"
-        ]
+        "title": "HYFR",
+        "spotify": "https://open.spotify.com/track/3xljtgEM6A2C8VFQHCIC1z",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
       },
       {
         "title": "Malibu",
+        "spotify": "https://open.spotify.com/track/4gc5n5YLVvZFORdNOvelZE",
         "mood": [
           "청량",
           "여름",
@@ -371,6 +532,7 @@
       },
       {
         "title": "Lights Out",
+        "spotify": "https://open.spotify.com/track/3Ye5YtLXZefqaiYMFiOOH2",
         "mood": [
           "밤",
           "감성",
@@ -388,6 +550,7 @@
       },
       {
         "title": "Push Me",
+        "spotify": "https://open.spotify.com/track/1p9GedZiKwRjX0EgxmFE6U",
         "mood": [
           "강렬함",
           "긴장감",
@@ -405,6 +568,7 @@
       },
       {
         "title": "Like Me",
+        "spotify": "https://open.spotify.com/track/6CgtxMNf4JQpgUuDT62CJQ",
         "mood": [
           "자신감",
           "힙함",
@@ -421,24 +585,16 @@
         ]
       },
       {
-        "title": "못봐",
-        "mood": [
-          "이별",
-          "슬픔",
-          "그리움"
-        ],
-        "situation": [
-          "헤어진 후",
-          "새벽"
-        ],
-        "energy": "low",
-        "keywords": [
-          "미련",
-          "그리움"
-        ]
+        "title": "Boat Ride",
+        "spotify": "https://open.spotify.com/track/23s1zBwaQIeykgysdJuzgA",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
       },
       {
         "title": "Rain Man",
+        "spotify": "https://open.spotify.com/track/2N2hhJeWDSX4VZS45cjzSP",
         "mood": [
           "우울",
           "비 오는 날",
@@ -457,6 +613,7 @@
       },
       {
         "title": "Olaf",
+        "spotify": "https://open.spotify.com/track/4AjEpBzBpOBtZQxHNgDj2p",
         "mood": [
           "귀여움",
           "따뜻함",
@@ -475,6 +632,7 @@
       },
       {
         "title": "Dirty Nikes",
+        "spotify": "https://open.spotify.com/track/7mdysKIVQHVioYi69yR8gf",
         "mood": [
           "힙함",
           "거친",
@@ -493,6 +651,7 @@
       },
       {
         "title": "Til I Die",
+        "spotify": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719",
         "mood": [
           "진지함",
           "다짐",
@@ -510,6 +669,7 @@
       },
       {
         "title": "Making Film",
+        "spotify": "https://open.spotify.com/track/0tpQqkqkfsn8GZB2PkwsXe",
         "mood": [
           "회상",
           "영화적",
@@ -529,26 +689,13 @@
     ]
   },
   {
-    "title": "Summer Episodes",
-    "date": "2019-07-23",
-    "image": "images/Summer Episodes.jpg",
+    "title": "Different Summer (Band Ver.)",
+    "date": "2026-04-25",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735582ec39624510315829e034",
     "tracks": [
       {
-        "title": "You Don't Know My Name",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "BOOL",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Different Summer",
+        "title": "Different Summer (Band Ver.)",
+        "spotify": "https://open.spotify.com/track/2TVRDs1FlKogp1N4AJsVR0",
         "mood": [],
         "situation": [],
         "energy": "unknown",
@@ -557,75 +704,13 @@
     ]
   },
   {
-    "title": "X",
-    "date": "2020-05-08",
-    "image": "images/X.jpg",
+    "title": "FIX IT! (feat. pH-1)",
+    "date": "2025-09-26",
+    "image": "https://i.scdn.co/image/ab67616d0000b273acd7e0ffd80be18e714398d5",
     "tracks": [
       {
-        "title": "사인회",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "OKAY",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "PACKITUP!",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "BLAME MY CIRCLE",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "TELÉFONO",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "센 척",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "ANYMORE",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "I CAN TELL",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "MORAGO",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "DRESSING ROOM",
+        "title": "FIX IT! (feat. pH-1)",
+        "spotify": "https://open.spotify.com/track/6YXwBKZ8OYfmj5JlhSuVan",
         "mood": [],
         "situation": [],
         "energy": "unknown",
@@ -634,75 +719,13 @@
     ]
   },
   {
-    "title": "RED TAPE",
-    "date": "2020-09-02",
-    "image": "images/RED TAPE.jpg",
+    "title": "Show Must Go On",
+    "date": "2025-04-30",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f861a31f9b72b197cdf5d9b2",
     "tracks": [
       {
-        "title": "H1GHR",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Melanin Handsome",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "How We Rock",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "뚝딱 Freestyle",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "4eva",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Teléfono Remix",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Closed Case",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "World Domination",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "The Purge",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "No Rush",
+        "title": "Show Must Go On",
+        "spotify": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC",
         "mood": [],
         "situation": [],
         "energy": "unknown",
@@ -711,54 +734,13 @@
     ]
   },
   {
-    "title": "BLUE TAPE",
-    "date": "2020-09-16",
-    "image": "images/BLUE TAPE.jpg",
+    "title": "GOSHA",
+    "date": "2025-04-25",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731b3c313066aff3a30d704bf0",
     "tracks": [
       {
-        "title": "Champagne Diet",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Me&Bae",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Selfish",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Last Song",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "LIVE",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Lean On Me",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "Oscar",
+        "title": "GOSHA (Feat. Karencici)",
+        "spotify": "https://open.spotify.com/track/27RGq3Oi81AqPBUwj73mfs",
         "mood": [],
         "situation": [],
         "energy": "unknown",
@@ -767,145 +749,13 @@
     ]
   },
   {
-    "title": "365&7",
-    "date": "2021-04-29",
-    "image": "images/365&7.jpg",
+    "title": "KAWASAKI (with pH-1)",
+    "date": "2025-01-31",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733eaa5754cce37f0beba08246",
     "tracks": [
       {
-        "title": "365&7",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "title": "BUT FOR NOW LEAVE ME ALONE",
-    "date": "2022-09-15",
-    "image": "images/BUT FOR NOW LEAVE ME ALONE.jpg",
-    "tracks": [
-      {
-        "title": "ZOMBIES",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "TGIF",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "YUPPIE TING",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "TIPSY",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "MR. BAD",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "JULIETTE!",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "RUN AWAY",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "DEAD GIRL",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "SHRINK TOLD ME",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "ISSUES",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "BREAK THE GLASS",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      }
-    ]
-  },
-  {
-    "title": "POP OFF",
-    "date": "2023-11-02",
-    "image": "images/POP OFF.jpg",
-    "tracks": [
-      {
-        "title": "ROSETTA",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "COSIGN",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "INCUBATOR",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "U TELL ME",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "LUST",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "360",
+        "title": "KAWASAKI (with pH-1)",
+        "spotify": "https://open.spotify.com/track/0QZABM9f7qhxAeW88WmBSY",
         "mood": [],
         "situation": [],
         "energy": "unknown",
@@ -916,10 +766,11 @@
   {
     "title": "HANDS",
     "date": "2024-12-23",
-    "image": "images/HANDS.jpg",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b9c3c63401586496b2504c96",
     "tracks": [
       {
-        "title": "인생영화",
+        "title": "Life Is A Movie (Feat. Jung Zi So)",
+        "spotify": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY",
         "mood": [],
         "situation": [],
         "energy": "unknown",
@@ -927,6 +778,7 @@
       },
       {
         "title": "Trustfall",
+        "spotify": "https://open.spotify.com/track/63OHrvbPN7guXUdQq0T2fw",
         "mood": [],
         "situation": [],
         "energy": "unknown",
@@ -935,111 +787,13 @@
     ]
   },
   {
-    "title": "WHAT HAVE WE DONE",
-    "date": "2025-08-13",
-    "image": "images/WHAT HAVE WE DONE.jpg",
+    "title": "FLAT COKE (Feat. Lee Young Ji)",
+    "date": "2024-07-16",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f428eea14bc003b3b0c94fa9",
     "tracks": [
       {
-        "title": "WHAT HAVE WE DONE",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": [],
-        "spotify": "https://open.spotify.com/track/20vFAtfeIYgq7p7wWf8eAN"
-      },
-      {
-        "title": "PARTY PPL",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "KEEP IT ON THE LOW",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "MY B",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "BAKA",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "CRASHINNN OUTTT!!!",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "ERYKAH BADU",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "GOSHA",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "DRUGGED2THRILLS",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "54321",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "EASY",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "SUMMER FEVER",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "COVERED IN RAIN",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "도망쳐",
-        "mood": [],
-        "situation": [],
-        "energy": "unknown",
-        "keywords": []
-      },
-      {
-        "title": "SOAK IN BLUE",
+        "title": "FLAT COKE (Feat. Lee Young Ji)",
+        "spotify": "https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7",
         "mood": [],
         "situation": [],
         "energy": "unknown",
@@ -1048,114 +802,880 @@
     ]
   },
   {
-    "title": "PUPRLE TAPE",
-    "date": "2026-04-09",
-    "image": "images/PURPLE TAPE.jpg",
+    "title": "Used To Be",
+    "date": "2024-03-29",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eb9e95b706f17b0a488c7d0f",
     "tracks": [
       {
-        "title": "WORKMAN",
+        "title": "Used To Be",
+        "spotify": "https://open.spotify.com/track/2lbL9ybEcabfosjaM7tYOr",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Tipsy (MajorStage Live)",
+    "date": "2024-02-01",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734421c2db89c397f42795ae00",
+    "tracks": [
+      {
+        "title": "Tipsy - MajorStage Live",
+        "spotify": "https://open.spotify.com/track/7yssmpi6MCGh5UZfAzHQPL",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Home Alone 2.0",
+    "date": "2024-01-19",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738b474441f51fce127d4b03d7",
+    "tracks": [
+      {
+        "title": "Home Alone 2.0",
+        "spotify": "https://open.spotify.com/track/5c42gvlI49BwXAw9bbnJfF",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "ROSETTA (Feat. lobonabeat!, Owen, BIG Naughty) [Remix]",
+    "date": "2023-12-18",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eb0572b6af8f1b4ec3eeb9ae",
+    "tracks": [
+      {
+        "title": "ROSETTA (Feat. lobonabeat!, Owen, BIG Naughty) - Remix",
+        "spotify": "https://open.spotify.com/track/4utBQOkGARly56Eq6TsIZo",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "POP OFF",
+    "date": "2023-11-02",
+    "image": "https://i.scdn.co/image/ab67616d0000b273897aade612b55304f798b361",
+    "tracks": [
+      {
+        "title": "ROSETTA (Feat. MILLI)",
+        "spotify": "https://open.spotify.com/track/3Kf4pY9LwV1cptb4HDNFyk",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "월드컵",
+        "title": "COSIGN (Feat. oygli)",
+        "spotify": "https://open.spotify.com/track/45tld1bOfGR0JRbyswKZ9y",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "GAGA",
+        "title": "INCUBATOR",
+        "spotify": "https://open.spotify.com/track/4Zs1jLeKqyYdD51kS9HlhX",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "FOCKIT",
+        "title": "U TELL ME (Feat. P-Lo)",
+        "spotify": "https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "WARM UP FREESTYLE",
+        "title": "LUST (iykyk) (Feat. DeVita)",
+        "spotify": "https://open.spotify.com/track/4J3p2odZsCbjgsSmM3gqBJ",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "MO LESSON",
+        "title": "360o (Feat. CHIKA)",
+        "spotify": "https://open.spotify.com/track/6AhCVxWNeXywU6TTQzLdk9",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Street Woman Fighter2(SWF2) Final Performance",
+    "date": "2023-10-31",
+    "image": "https://i.scdn.co/image/ab67616d0000b27352d48061c45f6bac0f8d931f",
+    "tracks": [
+      {
+        "title": "Move! (Prod. Slom)",
+        "spotify": "https://open.spotify.com/track/7egXoFXUqXCE1FT73wHNCK",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "BORA",
+        "title": "Move! (Prod. Slom) - Instrumental",
+        "spotify": "https://open.spotify.com/track/7HV0xNq7fKXlABGtbEjimZ",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Behind you touch OST Part 2",
+    "date": "2023-08-20",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b9e8f9d78186b3c6552df00c",
+    "tracks": [
+      {
+        "title": "It's you (Feat. COCONA)",
+        "spotify": "https://open.spotify.com/track/0N79crNUVLlWXnZhQsM4tp",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "<3U",
+        "title": "It's you (Feat. COCONA) (Inst.)",
+        "spotify": "https://open.spotify.com/track/6jMI9hpmihaPEg8c0iLFfN",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Metronome",
+    "date": "2023-07-05",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739fa4e6a9973e11f7fba23f3e",
+    "tracks": [
+      {
+        "title": "Metronome",
+        "spotify": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "2022 Christmas VIBE - pH-1, SUMIN",
+    "date": "2023-01-01",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a3e367dd2838460619e7d5e5",
+    "tracks": [
+      {
+        "title": "Let It Snow",
+        "spotify": "https://open.spotify.com/track/15pKXLj3nWjeiVgjedy36h",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Unicorn (Original Television Soundtrack), Pt.1",
+    "date": "2022-09-02",
+    "image": "https://i.scdn.co/image/ab67616d0000b273361117fb6c9a762074a215ce",
+    "tracks": [
+      {
+        "title": "Wake Me Up",
+        "spotify": "https://open.spotify.com/track/2nWaeTFKL8JcVfpPBkfsho",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "SUPERSTAR",
+        "title": "Wake Me Up - Inst.",
+        "spotify": "https://open.spotify.com/track/4saBX6bDTJrUgkrhX1Vimr",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "MR. BAD",
+    "date": "2022-08-09",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733a42eeff11d810afe59760f3",
+    "tracks": [
+      {
+        "title": "MR. BAD (Feat. Woo)",
+        "spotify": "https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "LATELY",
+    "date": "2021-12-23",
+    "image": "https://i.scdn.co/image/ab67616d0000b27399fb6a459b9140ae8d045d53",
+    "tracks": [
+      {
+        "title": "LATELY (Feat. Hoody)",
+        "spotify": "https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "As I Told You (Remix)",
+    "date": "2021-11-12",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fc0539fa919b0828f2bb8532",
+    "tracks": [
+      {
+        "title": "As I Told You - Remix",
+        "spotify": "https://open.spotify.com/track/5zTvf2B39VQM16eSiLmVGc",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Ain't No MF (feat. pH-1)",
+    "date": "2021-10-15",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e8394a3c68c57c3068b703cc",
+    "tracks": [
+      {
+        "title": "Ain't No MF (feat. pH-1)",
+        "spotify": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "ALL IN",
+    "date": "2021-08-03",
+    "image": "https://i.scdn.co/image/ab67616d0000b273593976eb68323bebfa542e3c",
+    "tracks": [
+      {
+        "title": "ALL IN (Prod. GroovyRoom)",
+        "spotify": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "DNA Remix",
+    "date": "2021-06-14",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d06d501f4162a7100771abb7",
+    "tracks": [
+      {
+        "title": "DNA Remix",
+        "spotify": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "365&7",
+    "date": "2021-04-29",
+    "image": "https://i.scdn.co/image/ab67616d0000b27307175d16d56c8c3adb3663d1",
+    "tracks": [
+      {
+        "title": "365&7 (Feat. JAMIE)",
+        "spotify": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Mungpal",
+    "date": "2021-04-11",
+    "image": "https://i.scdn.co/image/ab67616d0000b27376dcd75065c5912d6ba02cf2",
+    "tracks": [
+      {
+        "title": "Mungpal",
+        "spotify": "https://open.spotify.com/track/6tk3dNMLjNCHoIEfQkbF9W",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "bimil:ier vol.3 \"Antisocial\"",
+    "date": "2021-03-29",
+    "image": "https://i.scdn.co/image/ab67616d0000b27344bd9cf82e550ca0d1b7a196",
+    "tracks": [
+      {
+        "title": "Antisocial",
+        "spotify": "https://open.spotify.com/track/6KQelx3FbD4OCCKhHrblhU",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "BDB",
+        "title": "Antisocial - Instrumental",
+        "spotify": "https://open.spotify.com/track/5jNuVPr2Fw7XhwhTYThWPD",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "X",
+    "date": "2020-05-08",
+    "image": "https://i.scdn.co/image/ab67616d0000b27382282f879fb5879f5c15c9d4",
+    "tracks": [
+      {
+        "title": "MEET N GREET (Prod. GroovyRoom)",
+        "spotify": "https://open.spotify.com/track/2p4XBkLExRRzU6OQXwrDVu",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "OVERNIGHT",
+        "title": "OKAY (Prod. GroovyRoom)",
+        "spotify": "https://open.spotify.com/track/5NF3oHIuRh2dnO1BR5WLOj",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "POOF!",
+        "title": "PACKITUP! (Prod. BMTJ)",
+        "spotify": "https://open.spotify.com/track/69jQl2e2MBaxe2vxg1cPQ4",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "GPT FREESYLE",
+        "title": "BLAME MY CIRCLE (Prod. GRAY)",
+        "spotify": "https://open.spotify.com/track/2UCbpoY2gV9014udqhpM69",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "PHONE",
+        "title": "TELÉFONO (Prod. WOOGIE)",
+        "spotify": "https://open.spotify.com/track/1ozHZ7uR6FLESFZFntJfFY",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
       },
       {
-        "title": "SAY NO MORE",
+        "title": "센 척 (Prod. GRAY)",
+        "spotify": "https://open.spotify.com/track/3UMuxmwzFBiR28QbmZ1awi",
         "mood": [],
         "situation": [],
         "energy": "unknown",
         "keywords": []
+      },
+      {
+        "title": "ANYMORE(Prod. GRAY)",
+        "spotify": "https://open.spotify.com/track/6zbumeB93PfMLLH92qgRf0",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "I CAN TELL (Prod. Mokyo)",
+        "spotify": "https://open.spotify.com/track/507PHBaZldzrXFGlAjUIKY",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "MORAGO (Prod. Slom)",
+        "spotify": "https://open.spotify.com/track/4RbkUk0Qj5kjEsF7GMVbrr",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "DRESSING ROOM (Prod. Mokyo)",
+        "spotify": "https://open.spotify.com/track/4ceThj9C1SJDnReo7jnjr8",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Nerdy Love",
+    "date": "2020-01-09",
+    "image": "https://i.scdn.co/image/ab67616d0000b27335120749846df61d38ca1ee5",
+    "tracks": [
+      {
+        "title": "Nerdy Love",
+        "spotify": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Truman Show",
+    "date": "2019-09-30",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d95bc4782d1da949a9bc6462",
+    "tracks": [
+      {
+        "title": "Truman Show",
+        "spotify": "https://open.spotify.com/track/7Mb3KGhjKI1zG0PPNuqLJO",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Dingo X CHEEZE & pH-1 - Blue Champagne",
+    "date": "2019-09-04",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b1aa1a8065f2ebaab815b340",
+    "tracks": [
+      {
+        "title": "Dingo X CHEEZE & pH-1 - Blue Champagne",
+        "spotify": "https://open.spotify.com/track/3cpLprGVtGX8ss2zzdsHJp",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Summer Episodes",
+    "date": "2019-07-23",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737df37b00705d62caa5b28a0a",
+    "tracks": [
+      {
+        "title": "You Don't Know My Name",
+        "spotify": "https://open.spotify.com/track/6wAftpuS7JfftKq3zbm0WY",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "BOOL",
+        "spotify": "https://open.spotify.com/track/2Dohoe8eYvG8uJS9a3CQSR",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Different Summer",
+        "spotify": "https://open.spotify.com/track/2mJUxAVOkNMsEZ9u3mCIqq",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "staying",
+    "date": "2018-11-24",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d4ce7465c4523a39a7b44a04",
+    "tracks": [
+      {
+        "title": "Flaker",
+        "spotify": "https://open.spotify.com/track/7oDd8O1qfg62YU6YWfqdlU",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Homebody",
+        "spotify": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Show Me the Money 777 Episode 2",
+    "date": "2018-10-13",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ca554069add63381d04518e2",
+    "tracks": [
+      {
+        "title": "Hate You (Prod. by 코드 쿤스트)",
+        "spotify": "https://open.spotify.com/track/3pWzLdFztaXirLNrFlQ4IT",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Good Luck",
+    "date": "2018-09-27",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733ec4d26c839719acf482a992",
+    "tracks": [
+      {
+        "title": "KITKAT",
+        "spotify": "https://open.spotify.com/track/3MqWW2EJhkU3LeJ96GMpQC",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "KITKAT - Instrumental",
+        "spotify": "https://open.spotify.com/track/2SXKC5779WEaHPCohPvS5L",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "loves",
+    "date": "2018-08-20",
+    "image": "https://i.scdn.co/image/ab67616d0000b27325e28f3fed57c9901a7c983b",
+    "tracks": [
+      {
+        "title": "Cupid",
+        "spotify": "https://open.spotify.com/track/2QWQbZq001S7e9Pxu5rbS7",
+        "mood": [
+          "설렘",
+          "달달함",
+          "몽글몽글"
+        ],
+        "situation": [
+          "썸",
+          "데이트",
+          "봄"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "사랑",
+          "큐피드",
+          "고백"
+        ]
+      },
+      {
+        "title": "Groupie",
+        "spotify": "https://open.spotify.com/track/40t207ZbMEIp39fCyxMxlF",
+        "mood": [
+          "힙함",
+          "장난스러움",
+          "자신감"
+        ],
+        "situation": [
+          "파티",
+          "기분 전환"
+        ],
+        "energy": "high",
+        "keywords": [
+          "인기",
+          "플러팅"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "harry",
+    "date": "2018-06-22",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fccf85d6c7878a44bb1c78a9",
+    "tracks": [
+      {
+        "title": "Expensive",
+        "spotify": "https://open.spotify.com/track/4dg6RF7tf2uyszIyGNWceX",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "harry's question",
+        "spotify": "https://open.spotify.com/track/1BpyusomZCT0hNfL90AUI9",
+        "mood": [
+          "내면적",
+          "궁금함",
+          "몽글몽글"
+        ],
+        "situation": [
+          "혼자 생각할 때",
+          "밤"
+        ],
+        "energy": "low",
+        "keywords": [
+          "질문",
+          "자아",
+          "고민"
+        ]
+      },
+      {
+        "title": "DVD",
+        "spotify": "https://open.spotify.com/track/1rPm2vsc150LEkkcqAhx3B",
+        "mood": [
+          "감성",
+          "회상",
+          "빈티지"
+        ],
+        "situation": [
+          "밤",
+          "추억 회상"
+        ],
+        "energy": "low",
+        "keywords": [
+          "기억",
+          "영화",
+          "추억"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GATSBY",
+    "date": "2018-02-04",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739e0979362603c6c38df7cd7a",
+    "tracks": [
+      {
+        "title": "Penthouse (Prod. APRO)",
+        "spotify": "https://open.spotify.com/track/6emzoqPK7R90w6R92u3XfJ",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      },
+      {
+        "title": "Communicate (Prod. WOOGIE)",
+        "spotify": "https://open.spotify.com/track/1VLClsuRsjWbATpKRD0W2j",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "The Island Kid",
+    "date": "2017-10-18",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fbd30ddef727270350126d95",
+    "tracks": [
+      {
+        "title": "Christ",
+        "spotify": "https://open.spotify.com/track/20xRakAC3s5rQlabEFtHjX",
+        "mood": [
+          "진지함",
+          "내면적",
+          "묵직함"
+        ],
+        "situation": [
+          "생각 정리",
+          "혼자 듣기"
+        ],
+        "energy": "low",
+        "keywords": [
+          "믿음",
+          "고민",
+          "자아"
+        ]
+      },
+      {
+        "title": "Donut",
+        "spotify": "https://open.spotify.com/track/0WU7j9WQ9pjhbe9V15NgWv",
+        "mood": [
+          "귀여움",
+          "가벼움",
+          "달달함"
+        ],
+        "situation": [
+          "기분 좋을 때",
+          "카페"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "달콤함",
+          "장난"
+        ]
+      },
+      {
+        "title": "Game Night",
+        "spotify": "https://open.spotify.com/track/3TQrMPkn510bIvdq8GS3yM",
+        "mood": [
+          "신남",
+          "장난스러움",
+          "캐주얼"
+        ],
+        "situation": [
+          "친구들과",
+          "파티"
+        ],
+        "energy": "high",
+        "keywords": [
+          "게임",
+          "밤",
+          "친구"
+        ]
+      },
+      {
+        "title": "Cuckoo",
+        "spotify": "https://open.spotify.com/track/2JvE882XXLgkT1mf8CoK8C",
+        "mood": [
+          "힙함",
+          "장난스러움",
+          "자유로움"
+        ],
+        "situation": [
+          "기분 전환",
+          "가볍게 듣기"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "재치",
+          "개성"
+        ]
+      },
+      {
+        "title": "Escobar",
+        "spotify": "https://open.spotify.com/track/5Rgv0xpD01ASIlUP0As4YT",
+        "mood": [
+          "강렬함",
+          "힙함",
+          "자신감"
+        ],
+        "situation": [
+          "운동",
+          "외출 준비"
+        ],
+        "energy": "high",
+        "keywords": [
+          "스웨그",
+          "야망"
+        ]
+      },
+      {
+        "title": "15",
+        "spotify": "https://open.spotify.com/track/0v6qczal3sTlkf1xLuJwJU",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Dingo X H1GHR MUSIC",
+    "date": "2017-09-16",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e70f13ab53f580be2193292a",
+    "tracks": [
+      {
+        "title": "iffy (Prod. GroovyRoom)",
+        "spotify": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK",
+        "mood": [],
+        "situation": [],
+        "energy": "unknown",
+        "keywords": []
+      }
+    ]
+  },
+  {
+    "title": "Perfect",
+    "date": "2016-11-29",
+    "image": "https://i.scdn.co/image/ab67616d0000b27375a628a42b7e71b2e19c1ea8",
+    "tracks": [
+      {
+        "title": "Perfect",
+        "spotify": "https://open.spotify.com/track/7Coi8O3oswmsoXkfYtT7GE",
+        "mood": [
+          "달달함",
+          "설렘",
+          "감성"
+        ],
+        "situation": [
+          "썸",
+          "데이트",
+          "밤 산책"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "사랑",
+          "고백",
+          "로맨틱"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Wavy",
+    "date": "2016-10-21",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735b0202318d5e277df7ac3da7",
+    "tracks": [
+      {
+        "title": "Wavy",
+        "spotify": "https://open.spotify.com/track/6Cfvt0WMuzyX7nkteVY47V",
+        "mood": [
+          "청량",
+          "감성",
+          "여유"
+        ],
+        "situation": [
+          "드라이브",
+          "산책",
+          "기분 전환"
+        ],
+        "energy": "medium",
+        "keywords": [
+          "파도",
+          "청춘",
+          "자유"
+        ]
       }
     ]
   }

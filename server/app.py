@@ -51,6 +51,7 @@ def recommend(req: RecommendRequest):
                 candidates.append({
                     "title": track["title"],
                     "album": album["title"],
+                    "spotify": track.get("spotify"),
                     "mood": track.get("mood", []),
                     "situation": track.get("situation", []),
                     "keywords": track.get("keywords", []),
@@ -65,6 +66,8 @@ def recommend(req: RecommendRequest):
 사용자 취향: {", ".join(req.moods)}
 
 아래 후보곡 중에서 사용자 취향에 가장 잘 맞는 곡 3개를 골라줘.
+반드시 서로 다른 곡 3개를 선택해.
+같은 곡 또는 동일한 제목은 절대 중복해서 선택하지 마.
 반드시 JSON 배열만 출력해.
 설명 문장, 코드블록, ```json, 마크다운은 절대 쓰지 마.
 

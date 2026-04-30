@@ -1,228 +1,762 @@
 [
   {
-    "title": "Wavy",
-    "date": "2016-10-21",
-    "image": "images/Wavy.jpg",
+    "title": "WHAT HAVE WE DONE",
+    "date": "2025-08-13",
+    "image": "https://i.scdn.co/image/ab67616d0000b273cbcfde8e7e00d26dd9c4a508",
     "tracks": [
-      "Wavy"
-    ]
-  },
-  {
-    "title": "Perfect",
-    "date": "2016-11-29",
-    "image": "images/Perfect.jpg",
-    "tracks": [
-      "Perfect"
-    ]
-  },
-  {
-    "title": "The Island Kid",
-    "date": "2017-10-18",
-    "image": "images/The Island Kid.jpg",
-    "tracks": [
-      "Cuckoo",
-      "'15",
-      "Christ",
-      "Escobar",
-      "Game Night",
-      "Donut"
-    ]
-  },
-  {
-    "title": "GATSBY",
-    "date": "2018-02-04",
-    "image": "images/GATSBY.jpg",
-    "tracks": [
-      "Communicate",
-      "Penthouse"
-    ]
-  },
-  {
-    "title": "harry",
-    "date": "2018-06-22",
-    "image": "images/harry.jpg",
-    "tracks": [
-      "harry's question",
-      "비싸",
-      "DVD"
-    ]
-  },
-  {
-    "title": "loves",
-    "date": "2018-08-20",
-    "image": "images/loves.jpg",
-    "tracks": [
-      "Groupie",
-      "Cupid"
-    ]
-  },
-  {
-    "title": "HALO",
-    "date": "2019-03-28",
-    "image": "images/HALO.jpg",
-    "tracks": [
-      "Alright",
-      "너무 싫어",
-      "Malibu",
-      "Lights Out",
-      "Push Me",
-      "Like Me",
-      "못봐",
-      "Rain Man",
-      "Olaf",
-      "Dirty Nikes",
-      "Til I Die",
-      "Making Film"
-    ]
-  },
-  {
-    "title": "Summer Episodes",
-    "date": "2019-07-23",
-    "image": "images/Summer Episodes.jpg",
-    "tracks": [
-      "You Don't Know My Name",
-      "BOOL",
-      "Different Summer"
-    ]
-  },
-  {
-    "title": "X",
-    "date": "2020-05-08",
-    "image": "images/X.jpg",
-    "tracks": [
-      "사인회",
-      "OKAY",
-      "PACKITUP!",
-      "BLAME MY CIRCLE",
-      "TELÉFONO",
-      "센 척",
-      "ANYMORE",
-      "I CAN TELL",
-      "MORAGO",
-      "DRESSING ROOM"
-    ]
-  },
-  {
-    "title": "RED TAPE",
-    "date": "2020-09-02",
-    "image": "images/RED TAPE.jpg",
-    "tracks": [
-      "H1GHR",
-      "Melanin Handsome",
-      "How We Rock",
-      "뚝딱 Freestyle",
-      "4eva",
-      "Teléfono Remix",
-      "Closed Case",
-      "World Domination",
-      "The Purge",
-      "No Rush"
-    ]
-  },
-  {
-    "title": "BLUE TAPE",
-    "date": "2020-09-16",
-    "image": "images/BLUE TAPE.jpg",
-    "tracks": [
-      "Champagne Diet",
-      "Me&Bae",
-      "Selfish",
-      "Last Song",
-      "LIVE",
-      "Lean On Me",
-      "Oscar"
-    ]
-  },
-  {
-    "title": "365&7",
-    "date": "2021-04-29",
-    "image": "images/365&7.jpg",
-    "tracks": [
-      "365&7"
+      {
+        "title": "WHAT HAVE WE DONE",
+        "spotify": "https://open.spotify.com/track/20vFAtfeIYgq7p7wWf8eAN"
+      },
+      {
+        "title": "PARTY PPL (Feat. Min Jiwoon)",
+        "spotify": "https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp"
+      },
+      {
+        "title": "KEEP IT ON THE LOW (Feat. lIlBOI)",
+        "spotify": "https://open.spotify.com/track/5mIVTVI72CDH37t5BX8z9e"
+      },
+      {
+        "title": "MY B",
+        "spotify": "https://open.spotify.com/track/0O21tTyiBiulEV14nlMx9o"
+      },
+      {
+        "title": "BAKA (Feat. CHANMINA)",
+        "spotify": "https://open.spotify.com/track/43WXvU5sfCdTjAaNCqwRLT"
+      },
+      {
+        "title": "CRASHINNN OUTTT!!!",
+        "spotify": "https://open.spotify.com/track/0KWeTuohy512Wa3vePoran"
+      },
+      {
+        "title": "ERYKAH BADU (Feat. CAMO)",
+        "spotify": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
+      },
+      {
+        "title": "GOSHA (Feat. Karencici)",
+        "spotify": "https://open.spotify.com/track/12zn8gSltqNij6zmx9b165"
+      },
+      {
+        "title": "DRUGGED2THRILLS",
+        "spotify": "https://open.spotify.com/track/4PKtQ47ym7rDD75vccLGKJ"
+      },
+      {
+        "title": "54321 (Feat. HAEWON of NMIXX)",
+        "spotify": "https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz"
+      },
+      {
+        "title": "EASY (Feat. THAMA)",
+        "spotify": "https://open.spotify.com/track/2N4XsISPAYbi37LlxhfIT7"
+      },
+      {
+        "title": "SUMMER FEVER (Feat. aiai)",
+        "spotify": "https://open.spotify.com/track/371T3piMigFSScaVWHncAL"
+      },
+      {
+        "title": "COVERED IN RAIN",
+        "spotify": "https://open.spotify.com/track/0Jw5thEts8t9ETdKrUaLaz"
+      },
+      {
+        "title": "HAD I KNOWN",
+        "spotify": "https://open.spotify.com/track/0ybgvUNl1JjbQWKWgU8jYV"
+      },
+      {
+        "title": "SOAK IN BLUE",
+        "spotify": "https://open.spotify.com/track/1Qm15bPetnwyDxfRSmPngS"
+      }
     ]
   },
   {
     "title": "BUT FOR NOW LEAVE ME ALONE",
     "date": "2022-09-15",
-    "image": "images/BUT FOR NOW LEAVE ME ALONE.jpg",
+    "image": "https://i.scdn.co/image/ab67616d0000b27302ab0f34acddd0293503ff76",
     "tracks": [
-      "ZOMBIES",
-      "TGIF",
-      "YUPPIE TING",
-      "TIPSY",
-      "MR. BAD",
-      "JULIETTE!",
-      "RUN AWAY",
-      "DEAD GIRL",
-      "SHRINK TOLD ME",
-      "ISSUES",
-      "BREAK THE GLASS"
+      {
+        "title": "ZOMBIES",
+        "spotify": "https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc"
+      },
+      {
+        "title": "TGIF",
+        "spotify": "https://open.spotify.com/track/6LOB6nwHs1vffybRHlv9eX"
+      },
+      {
+        "title": "YUPPIE TING (Feat. Blase)",
+        "spotify": "https://open.spotify.com/track/0xR7hKYvGPdVoZOjGPkUEo"
+      },
+      {
+        "title": "TIPSY",
+        "spotify": "https://open.spotify.com/track/6DB2B0oxQTHdV6Q5j7uxRV"
+      },
+      {
+        "title": "MR. BAD (Feat. Woo)",
+        "spotify": "https://open.spotify.com/track/6kvdVqG2lXPvBqwqh6aoKV"
+      },
+      {
+        "title": "JULIETTE! (Feat. UMI)",
+        "spotify": "https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu"
+      },
+      {
+        "title": "RUN AWAY",
+        "spotify": "https://open.spotify.com/track/2FSoOK1i7PwQjBNngifdw2"
+      },
+      {
+        "title": "DEAD GIRL",
+        "spotify": "https://open.spotify.com/track/4HqdBguhzbczuMLGszvx6s"
+      },
+      {
+        "title": "SHRINK TOLD ME (Feat. Mokyo)",
+        "spotify": "https://open.spotify.com/track/0Dy1T7Pvl7G978QbaxYcfk"
+      },
+      {
+        "title": "ISSUES (Feat. Paloalto)",
+        "spotify": "https://open.spotify.com/track/17F7aH5vOipO1sTkJwoCOI"
+      },
+      {
+        "title": "BREAK THE GLASS",
+        "spotify": "https://open.spotify.com/track/5a2AAJPr3Cxq9L0Cgyrw0l"
+      },
+      {
+        "title": "FINAL BOUT (Feat. Los)",
+        "spotify": "https://open.spotify.com/track/3c4u00zq99PqJHJAQYC0MS"
+      },
+      {
+        "title": "BVE",
+        "spotify": "https://open.spotify.com/track/029c87h89Hs3c0kazbrGRc"
+      }
     ]
   },
   {
-    "title": "POP OFF",
-    "date": "2023-11-02",
-    "image": "images/POP OFF.jpg",
+    "title": "HALO",
+    "date": "2019-03-28",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738d87342c49541748bb5ce497",
     "tracks": [
-      "ROSETTA",
-      "COSIGN",
-      "INCUBATOR",
-      "U TELL ME",
-      "LUST",
-      "360"
+      {
+        "title": "Alright",
+        "spotify": "https://open.spotify.com/track/7G11zlyXdtwbV8DxxngCD4"
+      },
+      {
+        "title": "HYFR",
+        "spotify": "https://open.spotify.com/track/3xljtgEM6A2C8VFQHCIC1z"
+      },
+      {
+        "title": "Malibu",
+        "spotify": "https://open.spotify.com/track/4gc5n5YLVvZFORdNOvelZE"
+      },
+      {
+        "title": "Lights Out",
+        "spotify": "https://open.spotify.com/track/3Ye5YtLXZefqaiYMFiOOH2"
+      },
+      {
+        "title": "Push Me",
+        "spotify": "https://open.spotify.com/track/1p9GedZiKwRjX0EgxmFE6U"
+      },
+      {
+        "title": "Like Me",
+        "spotify": "https://open.spotify.com/track/6CgtxMNf4JQpgUuDT62CJQ"
+      },
+      {
+        "title": "Boat Ride",
+        "spotify": "https://open.spotify.com/track/23s1zBwaQIeykgysdJuzgA"
+      },
+      {
+        "title": "Rain Man",
+        "spotify": "https://open.spotify.com/track/2N2hhJeWDSX4VZS45cjzSP"
+      },
+      {
+        "title": "Olaf",
+        "spotify": "https://open.spotify.com/track/4AjEpBzBpOBtZQxHNgDj2p"
+      },
+      {
+        "title": "Dirty Nikes",
+        "spotify": "https://open.spotify.com/track/7mdysKIVQHVioYi69yR8gf"
+      },
+      {
+        "title": "Til I Die",
+        "spotify": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
+      },
+      {
+        "title": "Making Film",
+        "spotify": "https://open.spotify.com/track/0tpQqkqkfsn8GZB2PkwsXe"
+      }
+    ]
+  },
+  {
+    "title": "Different Summer (Band Ver.)",
+    "date": "2026-04-25",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735582ec39624510315829e034",
+    "tracks": [
+      {
+        "title": "Different Summer (Band Ver.)",
+        "spotify": "https://open.spotify.com/track/2TVRDs1FlKogp1N4AJsVR0"
+      }
+    ]
+  },
+  {
+    "title": "FIX IT! (feat. pH-1)",
+    "date": "2025-09-26",
+    "image": "https://i.scdn.co/image/ab67616d0000b273acd7e0ffd80be18e714398d5",
+    "tracks": [
+      {
+        "title": "FIX IT! (feat. pH-1)",
+        "spotify": "https://open.spotify.com/track/6YXwBKZ8OYfmj5JlhSuVan"
+      }
+    ]
+  },
+  {
+    "title": "Show Must Go On",
+    "date": "2025-04-30",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f861a31f9b72b197cdf5d9b2",
+    "tracks": [
+      {
+        "title": "Show Must Go On",
+        "spotify": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
+      }
+    ]
+  },
+  {
+    "title": "GOSHA",
+    "date": "2025-04-25",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731b3c313066aff3a30d704bf0",
+    "tracks": [
+      {
+        "title": "GOSHA (Feat. Karencici)",
+        "spotify": "https://open.spotify.com/track/27RGq3Oi81AqPBUwj73mfs"
+      }
+    ]
+  },
+  {
+    "title": "KAWASAKI (with pH-1)",
+    "date": "2025-01-31",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733eaa5754cce37f0beba08246",
+    "tracks": [
+      {
+        "title": "KAWASAKI (with pH-1)",
+        "spotify": "https://open.spotify.com/track/0QZABM9f7qhxAeW88WmBSY"
+      }
     ]
   },
   {
     "title": "HANDS",
     "date": "2024-12-23",
-    "image": "images/HANDS.jpg",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b9c3c63401586496b2504c96",
     "tracks": [
-      "인생영화",
-      "Trustfall"
+      {
+        "title": "Life Is A Movie (Feat. Jung Zi So)",
+        "spotify": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
+      },
+      {
+        "title": "Trustfall",
+        "spotify": "https://open.spotify.com/track/63OHrvbPN7guXUdQq0T2fw"
+      }
     ]
   },
   {
-    "title": "WHAT HAVE WE DONE",
-    "date": "2025-08-13",
-    "image": "images/WHAT HAVE WE DONE.jpg",
+    "title": "FLAT COKE (Feat. Lee Young Ji)",
+    "date": "2024-07-16",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f428eea14bc003b3b0c94fa9",
     "tracks": [
-      "WHAT HAVE WE DONE",
-      "PARTY PPL",
-      "KEEP IT ON THE LOW",
-      "MY B",
-      "BAKA",
-      "CRASHINNN OUTTT!!!",
-      "ERYKAH BADU",
-      "GOSHA",
-      "DRUGGED2THRILLS",
-      "54321",
-      "EASY",
-      "SUMMER FEVER",
-      "COVERED IN RAIN",
-      "도망쳐",
-      "SOAK IN BLUE"
+      {
+        "title": "FLAT COKE (Feat. Lee Young Ji)",
+        "spotify": "https://open.spotify.com/track/1P6QKJ1Vyskavy98wtV7W7"
+      }
     ]
   },
   {
-    "title": "PUPRLE TAPE",
-    "date": "2026-04-09",
-    "image": "images/PURPLE TAPE.jpg",
+    "title": "Used To Be",
+    "date": "2024-03-29",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eb9e95b706f17b0a488c7d0f",
     "tracks": [
-      "WORKMAN",
-      "월드컵",
-      "GAGA",
-      "FOCKIT",
-      "WARM UP FREESTYLE",
-      "MO LESSON",
-      "BORA", 
-      "<3U",
-      "SUPERSTAR",
-      "BDB",
-      "OVERNIGHT",
-      "POOF!",
-      "GPT FREESYLE",
-      "PHONE",
-      "SAY NO MORE"
+      {
+        "title": "Used To Be",
+        "spotify": "https://open.spotify.com/track/2lbL9ybEcabfosjaM7tYOr"
+      }
+    ]
+  },
+  {
+    "title": "Tipsy (MajorStage Live)",
+    "date": "2024-02-01",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734421c2db89c397f42795ae00",
+    "tracks": [
+      {
+        "title": "Tipsy - MajorStage Live",
+        "spotify": "https://open.spotify.com/track/7yssmpi6MCGh5UZfAzHQPL"
+      }
+    ]
+  },
+  {
+    "title": "Home Alone 2.0",
+    "date": "2024-01-19",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738b474441f51fce127d4b03d7",
+    "tracks": [
+      {
+        "title": "Home Alone 2.0",
+        "spotify": "https://open.spotify.com/track/5c42gvlI49BwXAw9bbnJfF"
+      }
+    ]
+  },
+  {
+    "title": "ROSETTA (Feat. lobonabeat!, Owen, BIG Naughty) [Remix]",
+    "date": "2023-12-18",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eb0572b6af8f1b4ec3eeb9ae",
+    "tracks": [
+      {
+        "title": "ROSETTA (Feat. lobonabeat!, Owen, BIG Naughty) - Remix",
+        "spotify": "https://open.spotify.com/track/4utBQOkGARly56Eq6TsIZo"
+      }
+    ]
+  },
+  {
+    "title": "POP OFF",
+    "date": "2023-11-02",
+    "image": "https://i.scdn.co/image/ab67616d0000b273897aade612b55304f798b361",
+    "tracks": [
+      {
+        "title": "ROSETTA (Feat. MILLI)",
+        "spotify": "https://open.spotify.com/track/3Kf4pY9LwV1cptb4HDNFyk"
+      },
+      {
+        "title": "COSIGN (Feat. oygli)",
+        "spotify": "https://open.spotify.com/track/45tld1bOfGR0JRbyswKZ9y"
+      },
+      {
+        "title": "INCUBATOR",
+        "spotify": "https://open.spotify.com/track/4Zs1jLeKqyYdD51kS9HlhX"
+      },
+      {
+        "title": "U TELL ME (Feat. P-Lo)",
+        "spotify": "https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH"
+      },
+      {
+        "title": "LUST (iykyk) (Feat. DeVita)",
+        "spotify": "https://open.spotify.com/track/4J3p2odZsCbjgsSmM3gqBJ"
+      },
+      {
+        "title": "360o (Feat. CHIKA)",
+        "spotify": "https://open.spotify.com/track/6AhCVxWNeXywU6TTQzLdk9"
+      }
+    ]
+  },
+  {
+    "title": "Street Woman Fighter2(SWF2) Final Performance",
+    "date": "2023-10-31",
+    "image": "https://i.scdn.co/image/ab67616d0000b27352d48061c45f6bac0f8d931f",
+    "tracks": [
+      {
+        "title": "Move! (Prod. Slom)",
+        "spotify": "https://open.spotify.com/track/7egXoFXUqXCE1FT73wHNCK"
+      },
+      {
+        "title": "Move! (Prod. Slom) - Instrumental",
+        "spotify": "https://open.spotify.com/track/7HV0xNq7fKXlABGtbEjimZ"
+      }
+    ]
+  },
+  {
+    "title": "Behind you touch OST Part 2",
+    "date": "2023-08-20",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b9e8f9d78186b3c6552df00c",
+    "tracks": [
+      {
+        "title": "It's you (Feat. COCONA)",
+        "spotify": "https://open.spotify.com/track/0N79crNUVLlWXnZhQsM4tp"
+      },
+      {
+        "title": "It's you (Feat. COCONA) (Inst.)",
+        "spotify": "https://open.spotify.com/track/6jMI9hpmihaPEg8c0iLFfN"
+      }
+    ]
+  },
+  {
+    "title": "Metronome",
+    "date": "2023-07-05",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739fa4e6a9973e11f7fba23f3e",
+    "tracks": [
+      {
+        "title": "Metronome",
+        "spotify": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
+      }
+    ]
+  },
+  {
+    "title": "2022 Christmas VIBE - pH-1, SUMIN",
+    "date": "2023-01-01",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a3e367dd2838460619e7d5e5",
+    "tracks": [
+      {
+        "title": "Let It Snow",
+        "spotify": "https://open.spotify.com/track/15pKXLj3nWjeiVgjedy36h"
+      }
+    ]
+  },
+  {
+    "title": "Unicorn (Original Television Soundtrack), Pt.1",
+    "date": "2022-09-02",
+    "image": "https://i.scdn.co/image/ab67616d0000b273361117fb6c9a762074a215ce",
+    "tracks": [
+      {
+        "title": "Wake Me Up",
+        "spotify": "https://open.spotify.com/track/2nWaeTFKL8JcVfpPBkfsho"
+      },
+      {
+        "title": "Wake Me Up - Inst.",
+        "spotify": "https://open.spotify.com/track/4saBX6bDTJrUgkrhX1Vimr"
+      }
+    ]
+  },
+  {
+    "title": "MR. BAD",
+    "date": "2022-08-09",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733a42eeff11d810afe59760f3",
+    "tracks": [
+      {
+        "title": "MR. BAD (Feat. Woo)",
+        "spotify": "https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg"
+      }
+    ]
+  },
+  {
+    "title": "LATELY",
+    "date": "2021-12-23",
+    "image": "https://i.scdn.co/image/ab67616d0000b27399fb6a459b9140ae8d045d53",
+    "tracks": [
+      {
+        "title": "LATELY (Feat. Hoody)",
+        "spotify": "https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a"
+      }
+    ]
+  },
+  {
+    "title": "As I Told You (Remix)",
+    "date": "2021-11-12",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fc0539fa919b0828f2bb8532",
+    "tracks": [
+      {
+        "title": "As I Told You - Remix",
+        "spotify": "https://open.spotify.com/track/5zTvf2B39VQM16eSiLmVGc"
+      }
+    ]
+  },
+  {
+    "title": "Ain't No MF (feat. pH-1)",
+    "date": "2021-10-15",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e8394a3c68c57c3068b703cc",
+    "tracks": [
+      {
+        "title": "Ain't No MF (feat. pH-1)",
+        "spotify": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
+      }
+    ]
+  },
+  {
+    "title": "ALL IN",
+    "date": "2021-08-03",
+    "image": "https://i.scdn.co/image/ab67616d0000b273593976eb68323bebfa542e3c",
+    "tracks": [
+      {
+        "title": "ALL IN (Prod. GroovyRoom)",
+        "spotify": "https://open.spotify.com/track/586VUZmfGAEjeHkIPHwy3p"
+      }
+    ]
+  },
+  {
+    "title": "DNA Remix",
+    "date": "2021-06-14",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d06d501f4162a7100771abb7",
+    "tracks": [
+      {
+        "title": "DNA Remix",
+        "spotify": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt"
+      }
+    ]
+  },
+  {
+    "title": "365&7",
+    "date": "2021-04-29",
+    "image": "https://i.scdn.co/image/ab67616d0000b27307175d16d56c8c3adb3663d1",
+    "tracks": [
+      {
+        "title": "365&7 (Feat. JAMIE)",
+        "spotify": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+      }
+    ]
+  },
+  {
+    "title": "Mungpal",
+    "date": "2021-04-11",
+    "image": "https://i.scdn.co/image/ab67616d0000b27376dcd75065c5912d6ba02cf2",
+    "tracks": [
+      {
+        "title": "Mungpal",
+        "spotify": "https://open.spotify.com/track/6tk3dNMLjNCHoIEfQkbF9W"
+      }
+    ]
+  },
+  {
+    "title": "bimil:ier vol.3 \"Antisocial\"",
+    "date": "2021-03-29",
+    "image": "https://i.scdn.co/image/ab67616d0000b27344bd9cf82e550ca0d1b7a196",
+    "tracks": [
+      {
+        "title": "Antisocial",
+        "spotify": "https://open.spotify.com/track/6KQelx3FbD4OCCKhHrblhU"
+      },
+      {
+        "title": "Antisocial - Instrumental",
+        "spotify": "https://open.spotify.com/track/5jNuVPr2Fw7XhwhTYThWPD"
+      }
+    ]
+  },
+  {
+    "title": "X",
+    "date": "2020-05-08",
+    "image": "https://i.scdn.co/image/ab67616d0000b27382282f879fb5879f5c15c9d4",
+    "tracks": [
+      {
+        "title": "MEET N GREET (Prod. GroovyRoom)",
+        "spotify": "https://open.spotify.com/track/2p4XBkLExRRzU6OQXwrDVu"
+      },
+      {
+        "title": "OKAY (Prod. GroovyRoom)",
+        "spotify": "https://open.spotify.com/track/5NF3oHIuRh2dnO1BR5WLOj"
+      },
+      {
+        "title": "PACKITUP! (Prod. BMTJ)",
+        "spotify": "https://open.spotify.com/track/69jQl2e2MBaxe2vxg1cPQ4"
+      },
+      {
+        "title": "BLAME MY CIRCLE (Prod. GRAY)",
+        "spotify": "https://open.spotify.com/track/2UCbpoY2gV9014udqhpM69"
+      },
+      {
+        "title": "TELÉFONO (Prod. WOOGIE)",
+        "spotify": "https://open.spotify.com/track/1ozHZ7uR6FLESFZFntJfFY"
+      },
+      {
+        "title": "센 척 (Prod. GRAY)",
+        "spotify": "https://open.spotify.com/track/3UMuxmwzFBiR28QbmZ1awi"
+      },
+      {
+        "title": "ANYMORE(Prod. GRAY)",
+        "spotify": "https://open.spotify.com/track/6zbumeB93PfMLLH92qgRf0"
+      },
+      {
+        "title": "I CAN TELL (Prod. Mokyo)",
+        "spotify": "https://open.spotify.com/track/507PHBaZldzrXFGlAjUIKY"
+      },
+      {
+        "title": "MORAGO (Prod. Slom)",
+        "spotify": "https://open.spotify.com/track/4RbkUk0Qj5kjEsF7GMVbrr"
+      },
+      {
+        "title": "DRESSING ROOM (Prod. Mokyo)",
+        "spotify": "https://open.spotify.com/track/4ceThj9C1SJDnReo7jnjr8"
+      }
+    ]
+  },
+  {
+    "title": "Nerdy Love",
+    "date": "2020-01-09",
+    "image": "https://i.scdn.co/image/ab67616d0000b27335120749846df61d38ca1ee5",
+    "tracks": [
+      {
+        "title": "Nerdy Love",
+        "spotify": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+      }
+    ]
+  },
+  {
+    "title": "Truman Show",
+    "date": "2019-09-30",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d95bc4782d1da949a9bc6462",
+    "tracks": [
+      {
+        "title": "Truman Show",
+        "spotify": "https://open.spotify.com/track/7Mb3KGhjKI1zG0PPNuqLJO"
+      }
+    ]
+  },
+  {
+    "title": "Dingo X CHEEZE & pH-1 - Blue Champagne",
+    "date": "2019-09-04",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b1aa1a8065f2ebaab815b340",
+    "tracks": [
+      {
+        "title": "Dingo X CHEEZE & pH-1 - Blue Champagne",
+        "spotify": "https://open.spotify.com/track/3cpLprGVtGX8ss2zzdsHJp"
+      }
+    ]
+  },
+  {
+    "title": "Summer Episodes",
+    "date": "2019-07-23",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737df37b00705d62caa5b28a0a",
+    "tracks": [
+      {
+        "title": "You Don't Know My Name",
+        "spotify": "https://open.spotify.com/track/6wAftpuS7JfftKq3zbm0WY"
+      },
+      {
+        "title": "BOOL",
+        "spotify": "https://open.spotify.com/track/2Dohoe8eYvG8uJS9a3CQSR"
+      },
+      {
+        "title": "Different Summer",
+        "spotify": "https://open.spotify.com/track/2mJUxAVOkNMsEZ9u3mCIqq"
+      }
+    ]
+  },
+  {
+    "title": "staying",
+    "date": "2018-11-24",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d4ce7465c4523a39a7b44a04",
+    "tracks": [
+      {
+        "title": "Flaker",
+        "spotify": "https://open.spotify.com/track/7oDd8O1qfg62YU6YWfqdlU"
+      },
+      {
+        "title": "Homebody",
+        "spotify": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM"
+      }
+    ]
+  },
+  {
+    "title": "Show Me the Money 777 Episode 2",
+    "date": "2018-10-13",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ca554069add63381d04518e2",
+    "tracks": [
+      {
+        "title": "Hate You (Prod. by 코드 쿤스트)",
+        "spotify": "https://open.spotify.com/track/3pWzLdFztaXirLNrFlQ4IT"
+      }
+    ]
+  },
+  {
+    "title": "Good Luck",
+    "date": "2018-09-27",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733ec4d26c839719acf482a992",
+    "tracks": [
+      {
+        "title": "KITKAT",
+        "spotify": "https://open.spotify.com/track/3MqWW2EJhkU3LeJ96GMpQC"
+      },
+      {
+        "title": "KITKAT - Instrumental",
+        "spotify": "https://open.spotify.com/track/2SXKC5779WEaHPCohPvS5L"
+      }
+    ]
+  },
+  {
+    "title": "loves",
+    "date": "2018-08-20",
+    "image": "https://i.scdn.co/image/ab67616d0000b27325e28f3fed57c9901a7c983b",
+    "tracks": [
+      {
+        "title": "Cupid",
+        "spotify": "https://open.spotify.com/track/2QWQbZq001S7e9Pxu5rbS7"
+      },
+      {
+        "title": "Groupie",
+        "spotify": "https://open.spotify.com/track/40t207ZbMEIp39fCyxMxlF"
+      }
+    ]
+  },
+  {
+    "title": "harry",
+    "date": "2018-06-22",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fccf85d6c7878a44bb1c78a9",
+    "tracks": [
+      {
+        "title": "Expensive",
+        "spotify": "https://open.spotify.com/track/4dg6RF7tf2uyszIyGNWceX"
+      },
+      {
+        "title": "harry's question",
+        "spotify": "https://open.spotify.com/track/1BpyusomZCT0hNfL90AUI9"
+      },
+      {
+        "title": "DVD",
+        "spotify": "https://open.spotify.com/track/1rPm2vsc150LEkkcqAhx3B"
+      }
+    ]
+  },
+  {
+    "title": "GATSBY",
+    "date": "2018-02-04",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739e0979362603c6c38df7cd7a",
+    "tracks": [
+      {
+        "title": "Penthouse (Prod. APRO)",
+        "spotify": "https://open.spotify.com/track/6emzoqPK7R90w6R92u3XfJ"
+      },
+      {
+        "title": "Communicate (Prod. WOOGIE)",
+        "spotify": "https://open.spotify.com/track/1VLClsuRsjWbATpKRD0W2j"
+      }
+    ]
+  },
+  {
+    "title": "The Island Kid",
+    "date": "2017-10-18",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fbd30ddef727270350126d95",
+    "tracks": [
+      {
+        "title": "Christ",
+        "spotify": "https://open.spotify.com/track/20xRakAC3s5rQlabEFtHjX"
+      },
+      {
+        "title": "Donut",
+        "spotify": "https://open.spotify.com/track/0WU7j9WQ9pjhbe9V15NgWv"
+      },
+      {
+        "title": "Game Night",
+        "spotify": "https://open.spotify.com/track/3TQrMPkn510bIvdq8GS3yM"
+      },
+      {
+        "title": "Cuckoo",
+        "spotify": "https://open.spotify.com/track/2JvE882XXLgkT1mf8CoK8C"
+      },
+      {
+        "title": "Escobar",
+        "spotify": "https://open.spotify.com/track/5Rgv0xpD01ASIlUP0As4YT"
+      },
+      {
+        "title": "15",
+        "spotify": "https://open.spotify.com/track/0v6qczal3sTlkf1xLuJwJU"
+      }
+    ]
+  },
+  {
+    "title": "Dingo X H1GHR MUSIC",
+    "date": "2017-09-16",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e70f13ab53f580be2193292a",
+    "tracks": [
+      {
+        "title": "iffy (Prod. GroovyRoom)",
+        "spotify": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK"
+      }
+    ]
+  },
+  {
+    "title": "Perfect",
+    "date": "2016-11-29",
+    "image": "https://i.scdn.co/image/ab67616d0000b27375a628a42b7e71b2e19c1ea8",
+    "tracks": [
+      {
+        "title": "Perfect",
+        "spotify": "https://open.spotify.com/track/7Coi8O3oswmsoXkfYtT7GE"
+      }
+    ]
+  },
+  {
+    "title": "Wavy",
+    "date": "2016-10-21",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735b0202318d5e277df7ac3da7",
+    "tracks": [
+      {
+        "title": "Wavy",
+        "spotify": "https://open.spotify.com/track/6Cfvt0WMuzyX7nkteVY47V"
+      }
     ]
   }
 ]

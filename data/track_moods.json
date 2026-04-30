@@ -160,5 +160,162 @@
     "situation": ["추억 정리", "밤"],
     "energy": "low",
     "keywords": ["기록", "필름", "기억"]
+  },
+  "WHAT HAVE WE DONE": {
+    "mood": ["감성", "후회", "잔잔함"],
+    "situation": ["밤", "혼자 있을 때"],
+    "energy": "low",
+    "keywords": ["후회", "과거", "자아"]
+  },
+  "PARTY PPL (Feat. Min Jiwoon)": {
+    "mood": ["신남", "힙함", "파티"],
+    "situation": ["파티", "친구들과"],
+    "energy": "high",
+    "keywords": ["밤", "클럽", "흥"]
+  },
+  "KEEP IT ON THE LOW (Feat. lIlBOI)": {
+    "mood": ["쿨함", "여유", "힙함"],
+    "situation": ["드라이브", "혼자 듣기"],
+    "energy": "medium",
+    "keywords": ["비밀", "관계", "쿨"]
+  },
+  "MY B": {
+    "mood": ["설렘", "가벼움", "감성"],
+    "situation": ["썸", "데이트"],
+    "energy": "medium",
+    "keywords": ["호감", "연애"]
+  },
+  "BAKA (Feat. CHANMINA)": {
+    "mood": ["강렬함", "도발적", "힙함"],
+    "situation": ["외출", "기분 올릴 때"],
+    "energy": "high",
+    "keywords": ["자존감", "태도"]
+  },
+  "CRASHINNN OUTTT!!!": {
+    "mood": ["분노", "폭발", "격함"],
+    "situation": ["스트레스 받을 때"],
+    "energy": "high",
+    "keywords": ["폭발", "감정"]
+  },
+  "ERYKAH BADU (Feat. CAMO)": {
+    "mood": ["몽환적", "그루비", "감성"],
+    "situation": ["밤 드라이브"],
+    "energy": "medium",
+    "keywords": ["바이브", "감각"]
+  },
+  "DRUGGED2THRILLS": {
+    "mood": ["몽환적", "중독성", "힙함"],
+    "situation": ["밤", "혼자"],
+    "energy": "medium",
+    "keywords": ["중독", "쾌감"]
+  },
+  "54321 (Feat. HAEWON of NMIXX)": {
+    "mood": ["신남", "텐션", "청량"],
+    "situation": ["드라이브", "운동"],
+    "energy": "high",
+    "keywords": ["카운트다운", "속도"]
+  },
+  "EASY (Feat. THAMA)": {
+    "mood": ["여유", "부드러움", "감성"],
+    "situation": ["카페", "휴식"],
+    "energy": "low",
+    "keywords": ["편안함", "느긋"]
+  },
+  "SUMMER FEVER (Feat. aiai)": {
+    "mood": ["청량", "여름", "설렘"],
+    "situation": ["여행", "드라이브"],
+    "energy": "high",
+    "keywords": ["여름", "열기"]
+  },
+  "COVERED IN RAIN": {
+    "mood": ["우울", "감성", "쓸쓸함"],
+    "situation": ["비 오는 날"],
+    "energy": "low",
+    "keywords": ["비", "외로움"]
+  },
+  "HAD I KNOWN": {
+    "mood": ["후회", "감성", "잔잔함"],
+    "situation": ["혼자 생각할 때"],
+    "energy": "low",
+    "keywords": ["선택", "후회"]
+  },
+  "SOAK IN BLUE": {
+    "mood": ["우울", "몽환적", "잔잔함"],
+    "situation": ["밤", "혼자"],
+    "energy": "low",
+    "keywords": ["블루", "감정"]
+  },
+
+  "ZOMBIES": {
+    "mood": ["무기력", "어두움", "비판적"],
+    "situation": ["생각 정리"],
+    "energy": "medium",
+    "keywords": ["사회", "현실"]
+  },
+  "TGIF": {
+    "mood": ["신남", "해방감", "캐주얼"],
+    "situation": ["금요일", "퇴근 후"],
+    "energy": "high",
+    "keywords": ["주말", "자유"]
+  },
+  "YUPPIE TING (Feat. Blase)": {
+    "mood": ["힙함", "자신감", "트렌디"],
+    "situation": ["외출"],
+    "energy": "high",
+    "keywords": ["라이프스타일"]
+  },
+  "TIPSY": {
+    "mood": ["몽글몽글", "취기", "감성"],
+    "situation": ["술 마실 때"],
+    "energy": "medium",
+    "keywords": ["술", "감정"]
+  },
+  "JULIETTE! (Feat. UMI)": {
+    "mood": ["설렘", "로맨틱", "감성"],
+    "situation": ["썸", "데이트"],
+    "energy": "medium",
+    "keywords": ["사랑", "연애"]
+  },
+  "RUN AWAY": {
+    "mood": ["도피", "자유", "감성"],
+    "situation": ["힘들 때"],
+    "energy": "medium",
+    "keywords": ["탈출"]
+  },
+  "DEAD GIRL": {
+    "mood": ["어두움", "우울", "강렬"],
+    "situation": ["혼자"],
+    "energy": "medium",
+    "keywords": ["상실"]
+  },
+  "SHRINK TOLD ME (Feat. Mokyo)": {
+    "mood": ["내면적", "상담", "감성"],
+    "situation": ["생각 정리"],
+    "energy": "low",
+    "keywords": ["자아", "치유"]
+  },
+  "ISSUES (Feat. Paloalto)": {
+    "mood": ["갈등", "현실적", "힙함"],
+    "situation": ["고민할 때"],
+    "energy": "medium",
+    "keywords": ["문제", "관계"]
+  },
+  "BREAK THE GLASS": {
+    "mood": ["강렬함", "분노", "돌파"],
+    "situation": ["스트레스 해소"],
+    "energy": "high",
+    "keywords": ["폭발"]
+  },
+  "FINAL BOUT (Feat. Los)": {
+    "mood": ["결의", "긴장감"],
+    "situation": ["결정할 때"],
+    "energy": "high",
+    "keywords": ["마지막"]
+  },
+  "BVE": {
+    "mood": ["힙함", "여유"],
+    "situation": ["드라이브"],
+    "energy": "medium",
+    "keywords": ["바이브"]
   }
 }
